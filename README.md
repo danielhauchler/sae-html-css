@@ -2,7 +2,7 @@
 This repo contains files created in our start-coding meetups.
 
 ## Colors
-(https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/colors.jpg)
+![Colors](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/colors.jpg)
 ```
   #f6f6f6
   #99a0aa
