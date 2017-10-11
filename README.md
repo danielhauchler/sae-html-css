@@ -1,6 +1,48 @@
 # start-coding
 This repo contains files created in our start-coding meetups.
 
+## Research
+
+## Webbrowser
+
+## HTML
+### DOM/Nodes
+### Tags
+
+
+## CSS
+### Box Model
+### CSS3
+#### Flexbox
+#### Transitions
+#### Transforms / ROtate / Scale
+### Responsive Web
+#### 
+### Preprocessors
+#### Sass/Less
+
+## Libraries/Frameworks
+### Bootstrap
+
+## Terminal Usage
+
+## Javascript
+
+## Task Runner
+### npm
+
+## Semantic Web
+### HTML Head
+
+## grunt / gulp / webpack
+
+## module bundler
+
+## Version Control/Git
+
+
+
+
 
 ## Assets
 
