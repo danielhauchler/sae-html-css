@@ -3,6 +3,8 @@ This repo contains files created in our start-coding meetups.
 
 ## Research
 
+## IDE
+
 ## Webbrowser
 
 ## HTML
