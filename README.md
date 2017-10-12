@@ -4,8 +4,10 @@ This repo contains files created in our start-coding meetups.
 ## Research
 
 ## IDE
+[Link](https://code.visualstudio.com/)
 
 ## Webbrowser
+### Dev Tools
 
 ## HTML
 ### DOM/Nodes
@@ -17,9 +19,12 @@ This repo contains files created in our start-coding meetups.
 ### CSS3
 #### Flexbox
 #### Transitions
-#### Transforms / ROtate / Scale
+#### Transforms / Rotate / Scale
 ### Responsive Web
 #### 
+
+## Server
+
 ### Preprocessors
 #### Sass/Less
 
@@ -33,7 +38,7 @@ This repo contains files created in our start-coding meetups.
 ## Task Runner
 ### npm
 
-## Semantic Web
+## Semantic Web / SEO
 ### HTML Head
 
 ## grunt / gulp / webpack
@@ -41,6 +46,14 @@ This repo contains files created in our start-coding meetups.
 ## module bundler
 
 ## Version Control/Git
+
+## CMS
+
+## Tracking
+### URL Tracking
+### Event Tracking
+
+## Datenbanken
 
 
 
