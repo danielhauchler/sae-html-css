@@ -4,7 +4,7 @@ This repo contains files created in our start-coding meetups.
 ## Research
 
 ## IDE
-[Link](https://code.visualstudio.com/)
+[Visual Studio Code](https://code.visualstudio.com/)
 
 ## Webbrowser
 ### Dev Tools
