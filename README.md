@@ -2,8 +2,10 @@
 This repo contains files and ressources which we spoke about in our start-coding sessions.
 
 ## IDE (Integrated Development Environment)
+
 Es gibt einige gute IDEs..
 - [Sublime](https://www.sublimetext.com/)
+
 Für unsere Zwecke empfehle ich aktuell VSC.
 - [Visual Studio Code](https://code.visualstudio.com/)
 
