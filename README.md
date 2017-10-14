@@ -31,6 +31,8 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, das den HTML-
 - [Emmet.io](https://emmet.io/)
 - [Emmet Docs](https://docs.emmet.io/)
 
+<br>
+
 ## 02 - Webbrowser + Dev Tools
 [Paul Irish](https://www.paulirish.com/), amerikanischer Front End und Google Chrome Web Browser Engineer.
 
@@ -41,10 +43,10 @@ Funktionsweisen von Browsern:
 ### 
 Rechtsklick + Untersuchen **|| cmd + shift + I**
 
-
-
+<br>
 
 ## 03 - html
+
 ### tags
 
 ### head
