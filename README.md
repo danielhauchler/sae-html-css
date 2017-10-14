@@ -9,9 +9,6 @@ Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessi
 > 17.10.2017 // 02, 03, 04 // Web Browser + HTML + CSS
 
 <br>
-<br>
-<br>
-<br>
 
 ## 01 - IDE (Integrated Development Environment)
 Die integrierte Entwicklungsumgebung, sammelt unter einer gemeinsamen Oberfläche die wichtigsten Tools für das Erstellen von Software. Z.Bsp. Quelltextformatierung, Syntaxhervorhebung, Compiler, Debugger, Interpreter, Werkzeuge für das Erstellen von grafischen Oberflächen, Versionskontrolle und weitere.
