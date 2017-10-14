@@ -1,17 +1,31 @@
 # start-coding
-This repo contains files created in our start-coding meetups.
+This repo contains files and ressources which we spoke about in our start-coding sessions.
 
-## Research
-### Tutorial
-### Ressources
-
-## IDE
-[Visual Studio Code](https://code.visualstudio.com/)
+## IDE (Integrated Development Environment)
+Es gibt einige gute IDEs..
+- [Sublime](https://www.sublimetext.com/)
+Für unsere Zwecke empfehle ich aktuell VSC.
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Webbrowser
 ### Dev Tools
 
 ## HTML
+## html
+### head
+#### Unicodes and Character Sets
+```
+<meta charset="utf-8">
+```
+
+[Article - Joel Spolsky](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+
+#### Kommentare
+```
+<!-- -->
+cmd + shift + 7
+```
+
 ### DOM/Nodes
 ### Tags
 
