@@ -2,8 +2,10 @@
 
 Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessionens.
 
-> **Termine**
+**Termine**
+
 > 12.10.2017 // 01, 02, 03 // Kick-Off + IDE, Web Browser, HTML
+
 > 17.10.2017 // 02, 03, 04 // Web Browser + HTML + CSS
 
 ## 01 - IDE (Integrated Development Environment)
