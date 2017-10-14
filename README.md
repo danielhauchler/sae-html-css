@@ -2,6 +2,8 @@
 
 Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessionens.
 
+<br>
+
 **Termine**
 
 > 12.10.2017 // 01, 02, 03 // Kick-Off + IDE, Web Browser, HTML
