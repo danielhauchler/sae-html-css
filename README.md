@@ -37,6 +37,8 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, das den HTML-
 
 Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
 
+<br>
+
 ### Dev Tools
 [Paul Irish](https://www.paulirish.com/), amerikanischer Front End und Google Chrome Web Browser Engineer.
 
@@ -53,15 +55,25 @@ cmd + shift + I
 
 ## 03 - html
 
-### tags
+### DOCTYPE
+
+````
+index.html
+
+<!DOCTYPE HTML>
+````
 
 ### head
 #### Unicodes and Character Sets
+
+[Article - Joel Spolsky](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+
 ```
 <meta charset="utf-8">
 ```
 
-[Article - Joel Spolsky](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+
+### tags
 
 #### Kommentare
 ```
