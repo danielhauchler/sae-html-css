@@ -1,5 +1,4 @@
 ![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/start-coding-banner.jpg)
-# Start Coding
 Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessionens.
 
 ## Termine
