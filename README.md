@@ -1,6 +1,6 @@
 ![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/start-coding-banner.jpg)
 
-Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessionens.
+> Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessionens.
 
 ## Termine
 - 12.10.2017 // Kick-Off + IDE, HTML
