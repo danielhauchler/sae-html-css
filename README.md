@@ -6,8 +6,6 @@
 - 12.10.2017 // Kick-Off + IDE, HTML
 - 17.10.2017 // IDE (Emmet) + HTML + CSS
 
-***
-
 ## IDE (Integrated Development Environment)
 Die integrierte Entwicklungsumgebung, sammelt unter einer gemeinsamen Oberfläche die wichtigsten Tools für das Erstellen von Software. Z.Bsp. Quelltextformatierung, Syntaxhervorhebung, Compiler, Debugger, Interpreter, Werkzeuge für das Erstellen von grafischen Oberflächen, Versionskontrolle und weitere.
 - [IDE - WIkipedia](https://de.wikipedia.org/wiki/Integrierte_Entwicklungsumgebung)
