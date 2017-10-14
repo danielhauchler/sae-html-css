@@ -90,24 +90,43 @@ can i use
 
 ## Nodes
 Server
+
 Preprocessors
+
 Sass/Less
+
 Libraries/Frameworks
+
 Bootstrap
+
 Terminal Usage
+
 Javascript
+
 Task Runner
+
 npm
+
 Semantic Web / SEO
+
 HTML Head
+
 grunt / gulp / webpack
+
 module bundler
+
 Version Control/Git
+
 CMS
+
 Tracking
+
 URL Tracking
+
 Event Tracking
+
 Datenbanken
+
 
 
 ## Assets
