@@ -5,13 +5,11 @@ This repo contains files and ressources which we spoke about in our start-coding
 
 Es gibt einige gute IDEs..
 
-- [Sublime](https://www.sublimetext.com/)
-- [Brackets](http://brackets.io/)
-- [Adobe Edge Code](http://www.adobe.com/de/products/edge-code.html)
-
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
-
+- [Sublime](https://www.sublimetext.com/)
+- [Adobe Edge Code](http://www.adobe.com/de/products/edge-code.html)
+- [Brackets](http://brackets.io/)
 - [Netbeans](https://netbeans.org/)
 
 Für unsere Zwecke empfehle ich aktuell VSC von Microsoft.
