@@ -39,7 +39,7 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, das den HTML-
 [Paul Irish](https://www.paulirish.com/), amerikanischer Front End und Google Chrome Web Browser Engineer.
 Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
 
-Rechtsklick + Untersuchen
+'Rechtsklick' + 'Untersuchen'
 
 ![Screenshot - Inspect Element](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/inspect.jpg)
 
