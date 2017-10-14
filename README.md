@@ -18,8 +18,9 @@ Für unsere Zwecke empfehle ich aktuell VSC von Microsoft.
 ## Webbrowser
 ### Dev Tools
 
-## HTML
 ## html
+### tags
+
 ### head
 #### Unicodes and Character Sets
 ```
