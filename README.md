@@ -1,5 +1,5 @@
 # start-coding
-This repo contains files and ressources which we spoke about in our start-coding sessions.
+Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessionens.
 
 ## IDE (Integrated Development Environment)
 
@@ -17,6 +17,12 @@ Für unsere Zwecke empfehle ich aktuell VSC von Microsoft.
 
 ## Webbrowser
 ### Dev Tools
+Öffne deinen Browser
+```
+cmd + shift + I
+```
+[Paul Irish](https://www.paulirish.com/)
+[Paul Irish - Wiki](https://en.wikipedia.org/wiki/Paul_Irish)
 
 ## html
 ### tags
