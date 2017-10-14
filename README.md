@@ -8,7 +8,7 @@ Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessi
 
 > **12.10.2017** // Kick-Off, IDE, Web Browser, HTML
 
-> 17.10.2017 // Web Browser, HTML, CSS
+> **17.10.2017** // Web Browser, HTML, CSS
 
 <br>
 
