@@ -1,37 +1,44 @@
 ![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/start-coding-banner.jpg)
 
-> Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessionens.
+Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessionens.
 
-## Termine
-- 12.10.2017 // Kick-Off + IDE, HTML
-- 17.10.2017 // IDE (Emmet) + HTML + CSS
+>> **Termine**
+>12.10.2017 // 01, 02, 03 // Kick-Off + IDE, Web Browser, HTML
+>17.10.2017 // 02, 03, 04 // Web Browser + HTML + CSS
 
-## IDE (Integrated Development Environment)
+## 01 - IDE (Integrated Development Environment)
 Die integrierte Entwicklungsumgebung, sammelt unter einer gemeinsamen Oberfläche die wichtigsten Tools für das Erstellen von Software. Z.Bsp. Quelltextformatierung, Syntaxhervorhebung, Compiler, Debugger, Interpreter, Werkzeuge für das Erstellen von grafischen Oberflächen, Versionskontrolle und weitere.
 - [IDE - WIkipedia](https://de.wikipedia.org/wiki/Integrierte_Entwicklungsumgebung)
 
-Es gibt viel gute IDEs, die Wahl der Richtigen hängt von eurem Technologie Stack ab.
-
-- [WebStorm](https://www.jetbrains.com/webstorm/)
-- [PhpStorm](https://www.jetbrains.com/phpstorm/)
+Es gibt viel gute IDEs, die Wahl der Richtigen hängt von eurem Technologie Stack ab. Als Web Entwickler konzetrieren wir uns auf HTML, CSS, JavaScript, PHP, NodeJS, Git.
 - [Sublime](https://www.sublimetext.com/)
 - [Adobe Edge Code](http://www.adobe.com/de/products/edge-code.html)
 - [Brackets](http://brackets.io/)
+- [WebStorm](https://www.jetbrains.com/webstorm/)
+- [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [Netbeans](https://netbeans.org/)
 
-Für unsere Zwecke empfehle ich aktuell VSC von Microsoft.
+Für unsere Zwecke empfehle ich aktuell den Visual Studio Code von Microsoft.
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-## Webbrowser
-### Dev Tools
-Öffne deinen Browser
-```
-cmd + shift + I
-```
-[Paul Irish](https://www.paulirish.com/)
-[Paul Irish - Wiki](https://en.wikipedia.org/wiki/Paul_Irish)
+Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, das den HTML- und CSS-Workflow erheblich verbessert!
+- [Emmet.io](https://emmet.io/)
+- [Emmet Docs](https://docs.emmet.io/)
 
-## html
+## 02 - Webbrowser + Dev Tools
+[Paul Irish](https://www.paulirish.com/), amerikanischer Front End und Google Chrome Web Browser Engineer.
+
+Funktionsweisen von Browsern:
+- [Hinter den Kulissen moderner Web-Browser](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
+
+
+### 
+Rechtsklick + Untersuchen **|| cmd + shift + I**
+
+
+
+
+## 03 - html
 ### tags
 
 ### head
@@ -52,7 +59,10 @@ cmd + shift + 7
 ### Tags
 
 
-## CSS
+## 04 - CSS
+can i use
+
+
 ### Box Model
 ### CSS3
 #### Flexbox
@@ -61,32 +71,28 @@ cmd + shift + 7
 ### Responsive Web
 #### 
 
-## Server
 
+
+
+
+## Nodes
+***
+***
+### Server
 ### Preprocessors
 #### Sass/Less
-
 ## Libraries/Frameworks
 ### Bootstrap
-
 ## Terminal Usage
-
 ## Javascript
-
 ## Task Runner
 ### npm
-
 ## Semantic Web / SEO
 ### HTML Head
-
 ## grunt / gulp / webpack
-
 ## module bundler
-
 ## Version Control/Git
-
 ## CMS
-
 ## Tracking
 ### URL Tracking
 ### Event Tracking
