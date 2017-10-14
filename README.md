@@ -1,6 +1,9 @@
 # start-coding
 Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessionens.
 
+- 12.10.2017
+- 17.10.2017
+
 ## IDE (Integrated Development Environment)
 
 Es gibt einige gute IDEs..
