@@ -35,9 +35,11 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, das den HTML-
 
 ## 02 - Webbrowser
 
+Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser]
+
 ### Dev Tools
 [Paul Irish](https://www.paulirish.com/), amerikanischer Front End und Google Chrome Web Browser Engineer.
-Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
+(https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
 
 'Rechtsklick' + 'Untersuchen/Inspect'
 
