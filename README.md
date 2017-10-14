@@ -1,10 +1,11 @@
 ![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/start-coding-banner.jpg)
 Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessionens.
-***
 
 ## Termine
 - 12.10.2017 // Kick-Off + IDE, HTML
 - 17.10.2017 // IDE (Emmet) + HTML + CSS
+
+***
 
 ## IDE (Integrated Development Environment)
 Die integrierte Entwicklungsumgebung, sammelt unter einer gemeinsamen Oberfläche die wichtigsten Tools für das Erstellen von Software. Z.Bsp. Quelltextformatierung, Syntaxhervorhebung, Compiler, Debugger, Interpreter, Werkzeuge für das Erstellen von grafischen Oberflächen, Versionskontrolle und weitere.
