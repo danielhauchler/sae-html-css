@@ -1,7 +1,5 @@
 ![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/start-coding-banner.jpg)
 
-Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessionens.
-
 <br>
 
 **Termine**
@@ -9,6 +7,8 @@ Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessi
 > **12.10.2017** // Kick-Off, IDE, Web Browser, HTML
 
 > **17.10.2017** // Web Browser, HTML, CSS
+
+[Roadmap to becoe a web developer in 2017.](https://github.com/danielhauchler/developer-roadmap)
 
 <br>
 
@@ -34,6 +34,8 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, das den HTML-
 <br>
 
 ## 02 - Webbrowser
+
+[Google Chrome](https://www.google.de/chrome/browser/desktop/index.html)
 
 Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser.](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
 
