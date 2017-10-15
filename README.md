@@ -46,12 +46,12 @@ Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser.](https:
 
 'Rechtsklick' + 'Untersuchen/Inspect'
 
-![Screenshot - Inspect Element](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/devtools.png)
-
-
 ```
 cmd + shift + I
 ```
+
+![Screenshot - Inspect Element](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/devtools.png)
+
 
 <br>
 
