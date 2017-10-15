@@ -36,8 +36,11 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, das den HTML-
 ## 02 - Webbrowser
 
 [Google Chrome](https://www.google.de/chrome/browser/desktop/index.html)
+
 [Mozilla Firefox](#)
+
 [Safari](#)
+
 [Internet Explorer](#)
 
 Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser.](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
