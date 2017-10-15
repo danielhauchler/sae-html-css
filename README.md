@@ -35,7 +35,7 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, das den HTML-
 
 ## 02 - Webbrowser
 
-Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
+Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser.](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
 
 <br>
 
@@ -44,7 +44,7 @@ Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser](https:/
 
 'Rechtsklick' + 'Untersuchen/Inspect'
 
-![Screenshot - Inspect Element](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/devtools.jpg)
+![Screenshot - Inspect Element](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/devtools.png)
 
 
 ```
