@@ -42,7 +42,7 @@ Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser.](https:
 <br>
 
 ### Dev Tools
-[Paul Irish](https://www.paulirish.com/), amerikanischer Front End und Google Chrome Web Browser Engineer.
+Google Chrome Developer Tools zum testen und debuggen von Aeb Applikationen.
 
 'Rechtsklick' + 'Untersuchen/Inspect'
 
@@ -52,6 +52,7 @@ cmd + shift + I
 
 ![Screenshot - Inspect Element](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/devtools.png)
 
+[Paul Irish](https://www.paulirish.com/), amerikanischer Front End und Google Chrome Web Browser Engineer.
 
 <br>
 
