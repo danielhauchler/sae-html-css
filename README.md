@@ -1,14 +1,3 @@
-   Stretch: no      Width: 200	 Text: start coding
-                                                                __                    __                           __                          
-                                                               /\ \__                /\ \__                       /\ \  __                     
-                                                           ____\ \ ,_\    __     _ __\ \ ,_\        ___    ___    \_\ \/\_\    ___      __     
-                                                          /',__\\ \ \/  /'__`\  /\`'__\ \ \/       /'___\ / __`\  /'_` \/\ \ /' _ `\  /'_ `\   
-                                                         /\__, `\\ \ \_/\ \L\.\_\ \ \/ \ \ \_     /\ \__//\ \L\ \/\ \L\ \ \ \/\ \/\ \/\ \L\ \  
-                                                         \/\____/ \ \__\ \__/.\_\\ \_\  \ \__\    \ \____\ \____/\ \___,_\ \_\ \_\ \_\ \____ \ 
-                                                          \/___/   \/__/\/__/\/_/ \/_/   \/__/     \/____/\/___/  \/__,_ /\/_/\/_/\/_/\/___L\ \
-                                                                                                                                        /\____/
-                                                                                                                                        \_/__/ 
-
 ![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/start-coding-banner.jpg)
 
 Dieses Repository beinhaltet Files und Ressourcen aus unseren Start-Coding Sessionens.
