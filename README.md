@@ -57,6 +57,11 @@ cmd + shift + I
 
 ## 03 - html
 
+[Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/)
+
+[World Wide Web Consortium (W3C)](https://www.w3.org/)
+[World Wide Web Consortium (W3Schools)](https://www.w3schools.com/)
+
 ### DOCTYPE
 
 Dateiname: index.html
@@ -80,6 +85,8 @@ Mit der Dateiendung'.html' definieren wir die Datei als HTML Datei, sodass der M
 
 
 ### tags
+
+[Lister HTML5 Elemente](https://developer.mozilla.org/de/docs/Web/HTML/HTML5/HTML5_element_list)
 
 #### Kommentare
 ```
