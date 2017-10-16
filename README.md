@@ -33,6 +33,14 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, das den HTML-
 
 <br>
 
+### Terminal
+
+Terminal! What's the hell?
+
+Liste häufig genutze Befehle im Terminal, der Komandozeile "Command Line". -> [Terminal Cheatsheet for Mac (Basics)](https://github.com/danielhauchler/terminal-mac-cheatsheet)
+
+<br>
+
 ## 02 - Webbrowser
 
 [Google Chrome](https://www.google.de/chrome/browser/desktop/index.html)
