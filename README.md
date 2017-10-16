@@ -55,7 +55,7 @@ Git
 
 ## 02 - Webbrowser
 
-Ein Programm zur Visualisierung von HTML und Vektor Grafiken durch Zuordnung visueller Darstellungen.
+Ein Programm zur Visualisierung von HTML und Vektor Grafiken und Zuordnung visueller Darstellungen.
 
 [Google Chrome](https://www.google.de/chrome/browser/desktop/index.html)
 - **WebKit** / V8
