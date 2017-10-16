@@ -55,13 +55,21 @@ Git
 
 ## 02 - Webbrowser
 
+Ein Programm zur Visualisierung von HTML und Vektor Grafiken durch Zuordnung visueller Darstellungen.
+
 [Google Chrome](https://www.google.de/chrome/browser/desktop/index.html)
+- **WebKit** / V8
+- C++, JavaScript, Python, Assemblersprache
 
 [Mozilla Firefox](#)
+- **Gecko**
+- C, C++, JavaScript, XML, Rust
 
 [Safari](#)
 
 [Internet Explorer](#)
+
+[Opera]()
 
 Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser.](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
 
@@ -83,6 +91,11 @@ cmd + shift + I
 <br>
 
 ## 03 - html
+
+
+- semantisch orientierte Dokumentstruktur
+
+
 
 [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/)
 
