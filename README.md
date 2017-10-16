@@ -33,12 +33,23 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, das den HTML-
 
 <br>
 
-### Terminal
+### Terminal (Command Line Interface)
 
-Terminal! What's the hell?
+Der Terminal, auch die Kommandozeile "Command Line" liefert uns eine Befehlszeilenschnittstelle und textbasierten Zugriff auf das Betriebssystem.
 
-Liste häufig genutze Befehle im Terminal, der Komandozeile "Command Line".
+Rudimentäre Befehle im Terminal.
 - [Terminal Cheatsheet for Mac (Basics)](https://github.com/danielhauchler/terminal-mac-cheatsheet)
+
+Ein nützliches Plugin Bundle und Theme für den Terminal.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+
+<br>
+
+#### Command Line Tools
+Freie Software zur Versionsverwaltung von offenen und geschlossenen Dateien/Projekten innerhalb eines Repositories.
+
+Git
+
 
 <br>
 
