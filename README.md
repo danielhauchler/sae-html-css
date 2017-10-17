@@ -144,7 +144,7 @@ Das Head Element ist ein Container für Metadaten. Metadaten beinhalten Informat
 ````
 - [HTML Elemente für den Head.](https://github.com/danielhauchler/HEAD)
 
-##### [Unicodes](https://de.wikipedia.org/wiki/Unicode) and Character Sets
+##### Unicodes and Character Sets
 ```
 <meta charset="utf-8">
 ```
