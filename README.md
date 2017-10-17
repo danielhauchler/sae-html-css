@@ -44,7 +44,7 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, welches den H
 
 Der Terminal, auch die Kommandozeile "Command Line" liefert uns eine Befehlszeilenschnittstelle und textbasierten Zugriff auf das Betriebssystem.
 
-![Terminal]()
+![Terminal](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/terminal.png)
 
 Rudimentäre Befehle im Terminal.
 - [Terminal Cheatsheet for Mac (Basics)](https://github.com/danielhauchler/terminal-mac-cheatsheet)
