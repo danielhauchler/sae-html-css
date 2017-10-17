@@ -1,4 +1,4 @@
-![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/start-coding-banner.jpg)
+![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/start-coding-banner.jpg)
 
 <br>
 
@@ -34,7 +34,7 @@ Es gibt viel gute IDEs, die Wahl der Richtigen hängt von eurem Technologie Stac
 Für unsere Zwecke empfehle ich im Augenblick den Visual Studio Code von Microsoft.
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, das den HTML- und CSS-Workflow erheblich verbessert!
+Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, welches den HTML- und CSS-Workflow erheblich verbessert!
 - [Emmet.io](https://emmet.io/)
 - [Emmet Docs](https://docs.emmet.io/)
 
@@ -43,6 +43,8 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, das den HTML-
 ### Terminal (Command Line Interface)
 
 Der Terminal, auch die Kommandozeile "Command Line" liefert uns eine Befehlszeilenschnittstelle und textbasierten Zugriff auf das Betriebssystem.
+
+![Terminal]()
 
 Rudimentäre Befehle im Terminal.
 - [Terminal Cheatsheet for Mac (Basics)](https://github.com/danielhauchler/terminal-mac-cheatsheet)
@@ -103,7 +105,7 @@ Google Chrome Developer Tools zum testen und debuggen von Aeb Applikationen.
 cmd + shift + I
 ```
 
-![Screenshot - Inspect Element](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/devtools.png)
+![Screenshot - Inspect Element](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/devtools.png)
 
 [Paul Irish](https://www.paulirish.com/), amerikanischer Front End und Google Chrome Web Browser Engineer.
 
@@ -233,7 +235,7 @@ Ad-Session
 ## Assets
 
 ### Colors
-![Colors](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/colors.jpg)
+![Colors](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/colors.jpg)
 ```
   #f6f6f6
   #99a0aa
