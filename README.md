@@ -80,7 +80,6 @@ Ein Computerprogramm zur Visualisierung von HTML Dokumenten, Vektor Grafiken, Bi
 
 Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser.](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
 
-<br>
 
 ### Dev Tools
 Google Chrome Developer Tools zum debuggen von Web Applikationen.
@@ -97,7 +96,7 @@ cmd + shift + I
 
 <br>
 
-## 03 - HTML
+## 02 - HTML
 
 - HTML (Hypertext Markup Language)
 - HTML beschreibt die semantische Dokumentenstruktur von Web Applikationen
@@ -177,7 +176,7 @@ __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-ht
 
 <br>
 
-## 04 - CSS
+## 03 - CSS
  CSS ist eine Stylesheet-Sprache für elektronische Dokumente und zusammen mit HTML und DOM eine der Kernsprachen des World Wide Webs. Mit CSS werden Gestaltungsanweisungen erstellt, die vor allem zusammen mit den Auszeichnungssprachen HTML und XML eingesetzt werden.
 
 - [Can i use?](https://caniuse.com/])
