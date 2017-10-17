@@ -53,6 +53,7 @@ Rudimentäre Kommandozeilen-Befehle
 Ein nützliches Plugin Bundle und Theme für den Terminal
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
+
 #### Command Line Tool
 
 ##### Git
@@ -65,6 +66,7 @@ Online-Dienste zur webbasierter Versionsverwaltung
 
 - [GitHub](https://github.com/)
 - [Bitbucket von Atlassian](https://bitbucket.org/)
+
 
 ### Webbrowser
 
