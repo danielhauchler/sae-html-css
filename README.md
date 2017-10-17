@@ -148,7 +148,7 @@ Das Head Element ist ein Container für Metadaten. Metadaten beinhalten Informat
 ```
 <meta charset="utf-8">
 ```
-[The Minimum Every Software Developer Absolutely, Positively Must Know](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+[The minimum every software developer must know about unicodes and character sets.](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 ### <body>
 Der Body definiert Inhalte von HTML Dokumenten wie Überschriften, Text, Hyperlinks, Bilder, Listen und Tabellen.
