@@ -148,21 +148,17 @@ Das <head> Element ist ein Container für Metadaten. Metadaten beinhalten Inform
 Kopfzeile des HTML Dokumentes
 ````
 <head></head>
-````
-Title
-````
+
+// Title
 <title></title>
-````
-Meta Daten
-````
+
+// Meta Daten
 <meta>
-````
-Link für externe Ressourcen
-````
+
+// Link für externe Ressourcen
 <link>
-````
-Internes Stylesheet
-````
+
+// Internes Stylesheet
 <style></style>
 ````
 
