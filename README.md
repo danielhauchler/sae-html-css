@@ -18,7 +18,7 @@
 <br>
 
 ## 01 - IDE (Integrated Development Environment)
-Die integrierte Entwicklungsumgebung, sammelt unter einer gemeinsamen Oberfläche die wichtigsten Tools für das Erstellen von Software. Z.Bsp. Quelltextformatierung, Syntaxhervorhebung, Compiler, Debugger, Interpreter, Werkzeuge für das Erstellen von grafischen Oberflächen, Versionskontrolle und weitere.
+Die integrierte Entwicklungsumgebung, sammelt unter einer gemeinsamen Oberfläche die wichtigsten Tools für das Erstellen von Software. Z.B. Quelltextformatierung, Syntaxhervorhebung, Compiler, Debugger, Interpreter, Werkzeuge für das Erstellen von grafischen Oberflächen, Versionskontrolle und weitere.
 - [IDE - WIkipedia](https://de.wikipedia.org/wiki/Integrierte_Entwicklungsumgebung)
 
 Es gibt viel gute IDEs, die Wahl der Richtigen hängt von eurem Technologie Stack ab. Als Web Entwickler konzetrieren wir uns auf HTML, CSS, JavaScript, PHP, NodeJS, Git.
