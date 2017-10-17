@@ -113,7 +113,7 @@ cmd + shift + I
 - HTML Tags repräsentieren HTML Elemente
 - Browser nutzen HTML Tags um Inhalte zu rendern
 
-[Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/), "Erfinder" des World Wide Webs und Director des World Wide Web Consortiums [W3C](https://www.w3.org/).
+[Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/), Wegbereiter des World Wide Webs und Director des World Wide Web Consortiums ([W3C](https://www.w3.org/)).
 
 - [World Wide Web Consortium (W3C)](https://www.w3.org/)
 - [World Wide Web Consortium (W3Schools)](https://www.w3schools.com/)
