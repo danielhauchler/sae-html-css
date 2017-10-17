@@ -4,7 +4,7 @@
 
 **Termine**
 
-***2017***
+2017
 
 > **12.10.** // Kick-Off, IDE, Terminal, Browser, HTML
 
