@@ -83,7 +83,7 @@ Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser.](https:
 <br>
 
 ### Dev Tools
-Google Chrome Developer Tools zum testen und debuggen von Aeb Applikationen.
+Google Chrome Developer Tools zum debuggen von Web Applikationen.
 
 'Rechtsklick' + 'Untersuchen/Inspect'
 
