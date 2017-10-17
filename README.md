@@ -46,20 +46,23 @@ Der Terminal, auch die Kommandozeile "Command Line" liefert uns eine Befehlszeil
 
 ![Terminal](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/terminal.png)
 
-Rudimentäre Kommandozeilen-Befehle.
+Rudimentäre Kommandozeilen-Befehle
 - [Terminal Cheatsheet for Mac (Basics)](https://github.com/danielhauchler/terminal-mac-cheatsheet)
 
-Ein nützliches Plugin Bundle und Theme für den Terminal.
+Ein nützliches Plugin Bundle und Theme für den Terminal
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 <br>
 
 #### Command Line Tools
+
+##### Git
+
 Freie Software zur Versionsverwaltung von publiken und privaten Dateien/Projekten innerhalb eines Repositoriums.
 
 - [Git](https://git-scm.com/)
 
-Webbasierter Online-Versionsverwaltung
+Webbasierter Dienste zur Online-Versionsverwaltung
 
 - [GitHub](https://github.com/)
 - [Bitbucket von Atlassian](https://bitbucket.org/)
