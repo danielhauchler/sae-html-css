@@ -139,7 +139,6 @@ Das Head Element ist ein Container für Metadaten. Metadaten beinhalten Informat
 <head>
   <meta charset="UTF-8">
   <title>Der einzigartige Titel</title>
-  <meta charset="utf-8">
   <meta name="description" content="Die einzigartige Beschreibung">
 </head>
 ````
