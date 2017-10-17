@@ -132,7 +132,6 @@ Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument. Wir verw
 <html>
 <head>
     <title></title>
-    <meta charset="utf-8">
 </head>
 <body>
     
@@ -145,6 +144,14 @@ Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument. Wir verw
 ### Head
 Das Head Element ist ein Container für Metadaten. Metadaten beinhalten Informationen über das HTML Dokument wie z.B. 'character sets', 'styles', 'links', 'scripts'...
 
+````
+<head>
+  <meta charset="UTF-8">
+  <title>Der einzigartige Titel</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Die einzigartige Beschreibung">
+</head>
+````
 - [HTML Elemente für den Head.](https://github.com/danielhauchler/HEAD)
 
 ##### Unicodes and Character Sets
