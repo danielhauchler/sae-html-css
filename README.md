@@ -176,9 +176,14 @@ __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-ht
 <br>
 
 ## 03 - CSS
- CSS ist eine Stylesheet-Sprache für elektronische Dokumente und zusammen mit HTML und DOM eine der Kernsprachen des World Wide Webs. Mit CSS werden Gestaltungsanweisungen erstellt, die vor allem zusammen mit den Auszeichnungssprachen HTML und XML eingesetzt werden.
+CSS ist eine Stylesheet-Sprache für elektronische Dokumente mit der Gestaltungsanweisungen erstellt werden.
 
 - [Can i use?](https://caniuse.com/])
+
+### Style Implementierung
+#### Inline
+#### Internal
+#### External
 
 ### Box Model
 ### CSS3
