@@ -4,11 +4,11 @@
 
 **Termine**
 
-> **12.10.2017** // Kick-Off, IDE, Terminal, Web Browser, HTML
+> **12.10.2017** // Kick-Off, IDE, Terminal, Browser, HTML
 
-> **17.10.2017** // Web Browser, HTML, CSS
+> **17.10.2017** // Browser, HTML, CSS
 
-> **25.10.2017** // Web Browser, HTML, CSS
+> **25.10.2017** // Browser, HTML, CSS
 
 <br>
 
