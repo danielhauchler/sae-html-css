@@ -148,7 +148,7 @@ Das <head> Element ist ein Container für Metadaten. Metadaten beinhalten Inform
 ```
 <meta charset="utf-8">
 ```
-[Article - Joel Spolsky](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+[The Minimum Every Software Developer Absolutely, Positively Must Know](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 ### <body>
 Der Body definiert Inhalte von HTML Dokumenten wie Überschriften, Text, Hyperlinks, Bilder, Listen und Tabellen.
@@ -156,9 +156,9 @@ Der Body definiert Inhalte von HTML Dokumenten wie Überschriften, Text, Hyperli
 
 
 #### Kommentare
+cmd + shift + 7
 ```
 <!-- -->
-cmd + shift + 7
 ```
 
 <br>
