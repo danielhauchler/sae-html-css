@@ -130,7 +130,7 @@ Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument.
 </html>
 ````
 
-__[Doctype Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-html/doctype/doctype.html)__
+[__Doctype Sourcecode__](https://github.com/danielhauchler/start-coding/blob/master/01-html/doctype/doctype.html)
 
 ### <HEAD>
 Das Head Element ist ein Container für Metadaten. Metadaten beinhalten Informationen über das HTML Dokument wie z.B. 'character sets', 'styles', 'links', 'scripts'...
