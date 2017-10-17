@@ -217,6 +217,8 @@ Event Tracking
 
 Datenbanken
 
+Images (png, jpg, svg)
+
 <br>
 
 ## Assets
