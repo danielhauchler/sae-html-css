@@ -48,7 +48,7 @@ Ein nützliches Plugin Bundle und Theme für den Terminal.
 #### Command Line Tools
 Freie Software zur Versionsverwaltung von publiken und privaten Dateien/Projekten innerhalb eines Repositoriums.
 
-[Git](https://git-scm.com/)
+- [Git](https://git-scm.com/)
 
 Webbasierter Online-Versionsverwaltung
 
