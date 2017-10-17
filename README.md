@@ -125,7 +125,7 @@ Dateiname:
 index.html
 ````
 
-Mit der Dateiendung'.html' definieren wir die Datei als HTML Datei, sodass der Maschine
+Mit der Dateiendung'.html' definieren wir die Datei als HTML Datei. Wir verwenden "index", da Ordnereinsprünge serverseitig standardmäßig auf index Dateien zeigen.
 
 ````
 <!DOCTYPE html>
