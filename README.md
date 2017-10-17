@@ -10,6 +10,8 @@
 
 [Roadmap to becoe a web developer in 2017.](https://github.com/danielhauchler/developer-roadmap)
 
+Unsere Notizen aus den Sessions findet ihr [hier](https://docs.google.com/document/d/17UVzmxNfac6yb9yI6B0vMZwanRJNC34Tepmt1gZ7-rI/edit)
+
 <br>
 
 ## 01 - IDE (Integrated Development Environment)
@@ -17,7 +19,7 @@ Die integrierte Entwicklungsumgebung, sammelt unter einer gemeinsamen Oberfläch
 - [IDE - WIkipedia](https://de.wikipedia.org/wiki/Integrierte_Entwicklungsumgebung)
 
 Es gibt viel gute IDEs, die Wahl der Richtigen hängt von eurem Technologie Stack ab. Als Web Entwickler konzetrieren wir uns auf HTML, CSS, JavaScript, PHP, NodeJS, Git.
-- [Sublime](https://www.sublimetext.com/)
+- [Sublime Text](https://www.sublimetext.com/)
 - [Adobe Edge Code](http://www.adobe.com/de/products/edge-code.html)
 - [Brackets](http://brackets.io/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
