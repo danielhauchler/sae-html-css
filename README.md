@@ -8,6 +8,8 @@
 
 > **17.10.2017** // Web Browser, HTML, CSS
 
+<br>
+
 [Roadmap to become a web developer in 2017.](https://github.com/danielhauchler/developer-roadmap)
 
 Unsere Notizen aus den Sessions findet ihr [hier](https://docs.google.com/document/d/17UVzmxNfac6yb9yI6B0vMZwanRJNC34Tepmt1gZ7-rI/edit)
