@@ -56,7 +56,7 @@ Git
 ## 02 - Webbrowser
 
 Ein Programm zur Visualisierung von HTML und Vektor Grafiken durch Zuordnung visueller Darstellungen.
--> [Browse Happy](https://browsehappy.com/)
+- [Browse Happy](https://browsehappy.com/)
 
 [Google Chrome](https://www.google.de/chrome/browser/desktop/index.html)
 - WebKit (Blink)/ V8
