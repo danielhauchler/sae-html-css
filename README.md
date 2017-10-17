@@ -140,7 +140,7 @@ Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument. Wir verw
 ````
 
 ### <head>
-Das <head> Element ist ein Container für Metadaten. Metadaten beinhalten Informationen über das HTML Dokument wie z.B. 'character sets', 'styles', 'links', 'scripts'...
+Das '<head>' Element ist ein Container für Metadaten. Metadaten beinhalten Informationen über das HTML Dokument wie z.B. 'character sets', 'styles', 'links', 'scripts'...
 
 - [HTML Elemente für den <head>.](https://github.com/danielhauchler/HEAD)
 
