@@ -139,19 +139,27 @@ Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument. Wir verw
 </html>
 ````
 
-### head
+### <head>
 Das <head> Element ist ein Container für Metadaten. Metadaten beinhalten Informationen über das HTML Dokument wie z.B. 'character sets', 'styles', 'links', 'scripts'...
 
-#### Unicodes and Character Sets
-
+##### Unicodes and Character Sets
 ```
 <meta charset="utf-8">
 ```
 [Article - Joel Spolsky](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
-### tags
 
-[Lister HTML5 Elemente](https://developer.mozilla.org/de/docs/Web/HTML/HTML5/HTML5_element_list)
+
+Weitere [HTML Elemente für den <head>.](https://github.com/danielhauchler/HEAD)
+
+
+### <body>
+Der Body definiert Inhalte von HTML Dokumenten wie Überschriften, Text, Hyperlinks, Bilder, Listen und Tabellen.
+- [Lister HTML5 Elemente](https://developer.mozilla.org/de/docs/Web/HTML/HTML5/HTML5_element_list)
+
+
+#### Tags
+
 
 #### Kommentare
 ```
