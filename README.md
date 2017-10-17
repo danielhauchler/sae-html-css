@@ -132,6 +132,7 @@ Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument. Wir verw
 <html>
 <head>
     <title></title>
+    <meta charset="utf-8">
 </head>
 <body>
     
