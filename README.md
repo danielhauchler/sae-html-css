@@ -156,7 +156,7 @@ Das Head Element ist ein Container für Metadaten. Metadaten beinhalten Informat
 
 ### BODY
 Der Body definiert Inhalte von HTML Dokumenten wie Überschriften, Text, Hyperlinks, Bilder, Listen und Tabellen.
-- [Lister HTML5 Elemente](https://www.w3schools.com/tags/ref_byfunc.asp)
+- [HTML5 Elemente](https://www.w3schools.com/tags/ref_byfunc.asp)
 
 ````
 <body>
