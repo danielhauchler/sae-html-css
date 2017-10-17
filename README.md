@@ -8,6 +8,8 @@
 
 > **17.10.2017** // Web Browser, HTML, CSS
 
+> **25.10.2017** // Web Browser, HTML, CSS
+
 <br>
 
 - [Roadmap to become a web developer in 2017](https://github.com/danielhauchler/developer-roadmap)
@@ -63,7 +65,7 @@ Webbasierter Online-Versionsverwaltung
 
 ## 02 - Webbrowser
 
-Ein Computerprogramm zur Visualisierung von HTML Dokumenten, Vektor Dateien, Bildern und PDF-Dokumenten durch Zuordnung visueller Darstellungen.<br>
+Ein Computerprogramm zur Visualisierung von HTML Dokumenten, Vektor Dateien, Bildern und PDF-Dokumenten durch Zuhilfenahme von Cascading Stylesheets.<br>
 [Browse Happy!](https://browsehappy.com/)
 
 [Google Chrome](https://www.google.de/chrome/browser/desktop/index.html)
