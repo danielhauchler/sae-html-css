@@ -130,7 +130,7 @@ Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument.
 </html>
 ````
 
-__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-html/01_doctype/index.html)*__
+__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-html/01_doctype/index.html)*__
 
 ### HEAD
 Das Head Element ist ein Container für Metadaten. Metadaten beinhalten Informationen über das HTML Dokument wie z.B. 'character sets', 'styles', 'links', 'scripts'...
@@ -171,7 +171,7 @@ Der Body definiert Inhalte von HTML Dokumenten wie Überschriften, Text, Hyperli
 </body>
 ````
 
-__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-html/03_html-body/index.html)*__
+__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-html/03_html-body/index.html)*__
 
 <br>
 
@@ -184,6 +184,9 @@ CSS ist eine Stylesheet-Sprache für elektronische Dokumente mit der Gestaltungs
 #### Inline
 #### Internal
 #### External
+
+
+
 
 ### Box Model
 ### CSS3
