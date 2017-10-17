@@ -62,7 +62,7 @@ Freie Software zur Versionsverwaltung von publiken und privaten Dateien/Projekte
 
 - [Git](https://git-scm.com/)
 
-Webbasierter Dienste zur Online-Versionsverwaltung
+Online-Dienste zur webbasierter Versionsverwaltung
 
 - [GitHub](https://github.com/)
 - [Bitbucket von Atlassian](https://bitbucket.org/)
