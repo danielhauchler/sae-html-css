@@ -147,9 +147,7 @@ __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-ht
 - [HTML Elemente für den Head.](https://github.com/danielhauchler/HEAD)
 
 ##### Unicodes and Character Sets
-[Unicode](https://wiki.selfhtml.org/wiki/Referenz:HTML/Zeichenreferenz) ist ein internationaler Standard, in dem langfristig für jedes Sinn tragende Schriftzeichen oder Textelement aller bekannten Schriftkulturen und Zeichensysteme ein digitaler Code festgelegt wird.
-
-[Character Sets](https://www.w3schools.com/tags/ref_charactersets.asp) (Zeichenkodierungen) erlauben die eindeutige Zuordnung von Schriftzeichen und Symbolen innerhalb eines Zeichensatzes.
+[Unicode](https://wiki.selfhtml.org/wiki/Referenz:HTML/Zeichenreferenz) ist ein internationaler Standard, in dem langfristig für jedes Sinn tragende Schriftzeichen oder Textelement aller bekannten Schriftkulturen und Zeichensysteme ein digitaler Code festgelegt wird. [Character Sets](https://www.w3schools.com/tags/ref_charactersets.asp) (Zeichenkodierungen) erlauben die eindeutige Zuordnung von Schriftzeichen und Symbolen innerhalb eines Zeichensatzes.
 
 ```
 <meta charset="utf-8">
