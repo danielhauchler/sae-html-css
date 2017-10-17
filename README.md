@@ -130,7 +130,7 @@ Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument.
 </html>
 ````
 
-__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-html/doctype/index.html)*__
+__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-html/01_doctype/index.html)*__
 
 ### HEAD
 Das Head Element ist ein Container für Metadaten. Metadaten beinhalten Informationen über das HTML Dokument wie z.B. 'character sets', 'styles', 'links', 'scripts'...
@@ -143,6 +143,8 @@ Das Head Element ist ein Container für Metadaten. Metadaten beinhalten Informat
 </head>
 ````
 - [HTML Elemente für den Head.](https://github.com/danielhauchler/HEAD)
+
+__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-html/02_html-head/index.html)*__
 
 ##### Unicodes and Character Sets
 [Unicode](https://wiki.selfhtml.org/wiki/Referenz:HTML/Zeichenreferenz) ist ein internationaler Standard, in dem langfristig für jedes Sinn tragende Schriftzeichen oder Textelement aller bekannten Schriftkulturen und Zeichensysteme ein digitaler Code festgelegt wird.
@@ -170,7 +172,7 @@ Der Body definiert Inhalte von HTML Dokumenten wie Überschriften, Text, Hyperli
 </body>
 ````
 
-__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-html/html-body/index.html)*__
+__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-html/03_html-body/index.html)*__
 
 <br>
 
