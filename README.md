@@ -72,7 +72,7 @@ Webbasierter Online-Versionsverwaltung
 Ein Computerprogramm zur Visualisierung von HTML Dokumenten, Vektor Grafiken, Bildern und PDF-Dokumenten durch Zuhilfenahme von Cascading Stylesheets.<br>
 [Browse Happy!](https://browsehappy.com/)
 
-- [Google Chrome](https://www.google.de/chrome/browser/desktop/index.html) (WebKit + V8)
+- [Google Chrome](https://www.google.de/chrome/browser/desktop/index.html) (WebKit / V8)
 - [Mozilla Firefox](https://www.mozilla.org/de/firefox/) (Gecko)
 - [Safari](https://www.apple.com/de/safari/) (WebKit)
 - [Internet Explorer](https://www.microsoft.com/de-de/download/internet-explorer.aspx) (Trident)
