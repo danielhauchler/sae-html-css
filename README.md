@@ -140,14 +140,14 @@ Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument. Wir verw
 ````
 
 ### head
-#### Unicodes and Character Sets
+Das <head> Element ist ein Container für Metadaten. Metadaten beinhalten Informationen über das HTML Dokument wie z.B. 'character sets', 'styles', 'links', 'scripts'...
 
-[Article - Joel Spolsky](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+#### Unicodes and Character Sets
 
 ```
 <meta charset="utf-8">
 ```
-
+[Article - Joel Spolsky](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 ### tags
 
