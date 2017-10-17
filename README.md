@@ -46,9 +46,14 @@ Ein nützliches Plugin Bundle und Theme für den Terminal.
 <br>
 
 #### Command Line Tools
-Freie Software zur Versionsverwaltung von offenen und geschlossenen Dateien/Projekten innerhalb eines Repositories.
+Freie Software zur Versionsverwaltung von publiken und privaten Dateien/Projekten innerhalb eines Repositoriums.
 
-Git
+[Git](https://git-scm.com/)
+
+Webbasierter Online-Versionsverwaltung
+
+- [GitHub](https://github.com/)
+- [Bitbucket von Atlassian](https://bitbucket.org/)
 
 
 <br>
@@ -63,7 +68,7 @@ Ein Programm zur Visualisierung von HTML und Vektor Grafiken durch Zuordnung vis
 - C++, JavaScript, Python, Assemblersprache
 
 [Mozilla Firefox](https://www.mozilla.org/de/firefox/)
-- Gecko Rendering-Engine
+- Gecko
 - C, C++, JavaScript, XML, Rust
 
 [Safari](https://www.apple.com/de/safari/)
