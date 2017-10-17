@@ -55,21 +55,28 @@ Git
 
 ## 02 - Webbrowser
 
-Ein Programm zur Visualisierung von HTML, Vektor Grafiken und Zuordnung visueller Darstellungen.
+Ein Programm zur Visualisierung von HTML und Vektor Grafiken durch Zuordnung visueller Darstellungen.
+-> [Browse Happy](https://browsehappy.com/)
 
 [Google Chrome](https://www.google.de/chrome/browser/desktop/index.html)
-- **WebKit** / V8
+- WebKit (Blink)/ V8
 - C++, JavaScript, Python, Assemblersprache
 
-[Mozilla Firefox](#)
-- **Gecko**
+[Mozilla Firefox](https://www.mozilla.org/de/firefox/)
+- Gecko Rendering-Engine
 - C, C++, JavaScript, XML, Rust
 
-[Safari](#)
+[Safari](https://www.apple.com/de/safari/)
+- WebKit
+- C++, Objective-C
 
-[Internet Explorer](#)
+[Internet Explorer](https://www.microsoft.com/de-de/download/internet-explorer.aspx)
+- Trident
+- C++
 
-[Opera]()
+[Opera](http://www.opera.com/de/download)
+- Presto
+- C++
 
 Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser.](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
 
@@ -92,11 +99,13 @@ cmd + shift + I
 
 ## 03 - html
 
+- HTML (Hypertext Markup Language)
+- HTML beschreibt die semantische Dokumentenstruktur von Webapplikationen
+- HTML Elemente sind Bausteine von Webapplikationen
+- HTML Tags repräsentieren HTML Elemente
+- Browser nutzen HTML Tags um Inhalte zu rendern
 
-- semantisch orientierte Dokumentstruktur
-
-
-
+"Erfinder" des World Wide Webs und Director des World Wide Web Consortiums (W3C).
 [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/)
 
 [World Wide Web Consortium (W3C)](https://www.w3.org/)
