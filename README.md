@@ -63,7 +63,7 @@ Webbasierter Online-Versionsverwaltung
 
 ## 02 - Webbrowser
 
-Ein Programm zur Visualisierung von HTML und Vektor Grafiken durch Zuordnung visueller Darstellungen. <br>
+Ein Computerprogramm zur Visualisierung von HTML Dokumenten, Vektor Dateien, Bildern und PDF-Dokumenten durch Zuordnung visueller Darstellungen.<br>
 [Browse Happy!](https://browsehappy.com/)
 
 [Google Chrome](https://www.google.de/chrome/browser/desktop/index.html)
