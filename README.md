@@ -160,11 +160,14 @@ Der Body definiert Inhalte von HTML Dokumenten wie Überschriften, Text, Hyperli
 
 ````
 <body>
-  <h1>Start Coding</h1>
-  <h2>Kapitel 01 - HTML</h2>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit!</p>
-  <a href="http://google.com">Google</a>      
+  <h1></h1>
+  <h2></h2>
+  <p></p>
+  <a href=""></a>      
   <img src="" title="">
+  <div>
+    <div></div>
+  </div>
 </body>
 ````
 
