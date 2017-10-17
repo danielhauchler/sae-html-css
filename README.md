@@ -111,9 +111,8 @@ cmd + shift + I
 
 - HTML (Hypertext Markup Language)
 - HTML beschreibt die semantische Dokumentenstruktur von Webapplikationen
-- HTML Elemente sind Bausteine von Webapplikationen
 - HTML Tags repräsentieren HTML Elemente
-- Browser nutzen HTML Tags um Inhalte zu rendern
+- Browser nutzen HTML Tags um Inhalte zu rendern.
 
 [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/), Wegbereiter des World Wide Webs und Director des World Wide Web Consortiums ([W3C](https://www.w3.org/)).
 
