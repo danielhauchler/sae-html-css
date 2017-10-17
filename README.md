@@ -99,9 +99,10 @@ cmd + shift + I
 ## 03 - HTML
 
 - HTML (Hypertext Markup Language)
-- HTML beschreibt die semantische Dokumentenstruktur von Webapplikationen
+- HTML beschreibt die semantische Dokumentenstruktur von Web Applikationen
 - HTML Tags repräsentieren HTML Elemente
-- Browser nutzen HTML Tags um Inhalte zu rendern.
+- HTML Elemente bilden eine Baumstruktur, auch bezeichnet als DOM (Dokumenten-Objekt-Modell)
+- Browser nutzen das DOM um Inhalte zu rendern
 
 [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/), Wegbereiter des World Wide Webs und Director des World Wide Web Consortiums ([W3C](https://www.w3.org/)).
 
