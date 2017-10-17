@@ -169,8 +169,7 @@ cmd + shift + 7
 ## 04 - CSS
  CSS ist eine Stylesheet-Sprache für elektronische Dokumente und zusammen mit HTML und DOM eine der Kernsprachen des World Wide Webs. Mit CSS werden Gestaltungsanweisungen erstellt, die vor allem zusammen mit den Auszeichnungssprachen HTML und XML eingesetzt werden.
 
-- (Can i use?)[https://caniuse.com/]
-
+- [Can i use?](https://caniuse.com/])
 
 ### Box Model
 ### CSS3
