@@ -8,7 +8,7 @@
 
 > **12.10.** // Kick-Off, IDE, Terminal, Browser, HTML
 
-> **17.10** // Browser, Chrome DevTools, HTML, CSS
+> **17.10** // Chrome DevTools, HTML, CSS
 
 > **25.10.** // Chrome DevTools, HTML, CSS
 
