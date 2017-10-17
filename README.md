@@ -139,7 +139,7 @@ Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument. Wir verw
 </html>
 ````
 
-- [Github Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-html/doctype/doctype.html)
+- [Doctype Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-html/doctype/doctype.html)
 
 ### Head
 Das Head Element ist ein Container für Metadaten. Metadaten beinhalten Informationen über das HTML Dokument wie z.B. 'character sets', 'styles', 'links', 'scripts'...
@@ -162,7 +162,7 @@ cmd + shift + 7
 <!-- -->
 ```
 
-[Github Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-html/html-tags/html-tags.html)
+[Doctype Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-html/html-tags/html-tags.html)
 
 <br>
 
@@ -220,6 +220,8 @@ Event Tracking
 Datenbanken
 
 Images (png, jpg, svg)
+
+Ad-Session
 
 <br>
 
