@@ -6,9 +6,9 @@
 
 > **12.10.2017** // Kick-Off, IDE, Terminal, Browser, HTML
 
-> **17.10.2017** // Browser, HTML, CSS
+> **17.10.2017** // Browser, Chrome DevTools, HTML, CSS
 
-> **25.10.2017** // Browser, HTML, CSS
+> **25.10.2017** // Chrome DevTools, HTML, CSS (Schwerpunkt CSS)
 
 <br>
 
