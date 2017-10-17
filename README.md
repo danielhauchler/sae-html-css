@@ -53,7 +53,7 @@ Rudimentäre Kommandozeilen-Befehle
 Ein nützliches Plugin Bundle und Theme für den Terminal
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
-#### Command Line Tools
+#### Command Line Tool
 
 ##### Git
 
