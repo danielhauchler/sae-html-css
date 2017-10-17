@@ -19,7 +19,7 @@
 
 <br>
 
-## Entwicklungsumgebung
+## 01 - Entwicklungsumgebung
 
 ### IDE (Integrated Development Environment)
 
@@ -53,8 +53,6 @@ Rudimentäre Kommandozeilen-Befehle
 Ein nützliches Plugin Bundle und Theme für den Terminal
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
-<br>
-
 #### Command Line Tools
 
 ##### Git
@@ -68,10 +66,7 @@ Online-Dienste zur webbasierter Versionsverwaltung
 - [GitHub](https://github.com/)
 - [Bitbucket von Atlassian](https://bitbucket.org/)
 
-
-<br>
-
-## 02 - Webbrowser
+### Webbrowser
 
 Ein Computerprogramm zur Visualisierung von HTML Dokumenten, Vektor Grafiken, Bildern und PDF-Dokumenten durch Zuhilfenahme von Cascading Stylesheets. [Browse Happy!](https://browsehappy.com/)
 
