@@ -120,14 +120,23 @@ cmd + shift + I
 
 ### DOCTYPE
 
-Dateiname: index.html
+Dateiname:
+````
+index.html
+````
 
 Mit der Dateiendung'.html' definieren wir die Datei als HTML Datei, sodass der Maschine
 
 ````
-
-
-<!DOCTYPE HTML>
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    
+</body>
+</html>
 ````
 
 ### head
