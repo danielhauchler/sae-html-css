@@ -72,25 +72,11 @@ Webbasierter Online-Versionsverwaltung
 Ein Computerprogramm zur Visualisierung von HTML Dokumenten, Vektor Grafiken, Bildern und PDF-Dokumenten durch Zuhilfenahme von Cascading Stylesheets.<br>
 [Browse Happy!](https://browsehappy.com/)
 
-[Google Chrome](https://www.google.de/chrome/browser/desktop/index.html)
-- WebKit/ V8
-- C++, JavaScript, Python, Assemblersprache
-
-[Mozilla Firefox](https://www.mozilla.org/de/firefox/)
-- Gecko
-- C, C++, JavaScript, XML, Rust
-
-[Safari](https://www.apple.com/de/safari/)
-- WebKit
-- C++, Objective-C
-
-[Internet Explorer](https://www.microsoft.com/de-de/download/internet-explorer.aspx)
-- Trident
-- C++
-
-[Opera](http://www.opera.com/de/download)
-- Presto
-- C++
+[Google Chrome](https://www.google.de/chrome/browser/desktop/index.html) (WebKit + V8)
+[Mozilla Firefox](https://www.mozilla.org/de/firefox/) (Gecko)
+[Safari](https://www.apple.com/de/safari/) (WebKit)
+[Internet Explorer](https://www.microsoft.com/de-de/download/internet-explorer.aspx) (Trident)
+[Opera](http://www.opera.com/de/download) (Presto)
 
 Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser.](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
 
