@@ -4,11 +4,13 @@
 
 **Termine**
 
-> **12.10.2017** // Kick-Off, IDE, Terminal, Browser, HTML
+> ***2017***
 
-> **17.10.2017** // Browser, Chrome DevTools, HTML, CSS
+> **12.10.** // Kick-Off, IDE, Terminal, Browser, HTML
 
-> **25.10.2017** // Chrome DevTools, HTML, CSS
+> **17.10** // Browser, Chrome DevTools, HTML, CSS
+
+> **25.10.** // Chrome DevTools, HTML, CSS
 
 <br>
 
@@ -29,7 +31,7 @@ Es gibt viel gute IDEs, die Wahl der Richtigen hängt von eurem Technologie Stac
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [Netbeans](https://netbeans.org/)
 
-Für unsere Zwecke empfehle ich aktuell den Visual Studio Code von Microsoft.
+Für unsere Zwecke empfehle ich im Augenblick den Visual Studio Code von Microsoft.
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, das den HTML- und CSS-Workflow erheblich verbessert!
