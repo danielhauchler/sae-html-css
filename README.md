@@ -21,7 +21,7 @@
 
 Die [IDE (integrierte Entwicklungsumgebung)](https://de.wikipedia.org/wiki/Integrierte_Entwicklungsumgebung/) sammelt unter einer gemeinsamen Oberfläche die wichtigsten Tools für das Erstellen von Software. Z.B. [Quelltextformatierung](https://de.wikipedia.org/wiki/Quelltextformatierung), [Syntaxhervorhebung](https://de.wikipedia.org/wiki/Syntaxhervorhebung), [Compiler](https://de.wikipedia.org/wiki/Compiler), [Debugger](https://de.wikipedia.org/wiki/Debugger), [Interpreter](https://de.wikipedia.org/wiki/Interpreter), Werkzeuge für das Erstellen von grafischen Oberflächen, [Versionskontrolle](https://git-scm.com/book/de/v1/Los-geht%E2%80%99s-Wozu-Versionskontrolle%3F) und weitere.
 
-Es gibt viel gute IDEs, die Wahl der Richtigen hängt von eurem Technologie Stack ab. Als Web Entwickler konzetrieren wir uns auf HTML, CSS, JavaScript, PHP, NodeJS, Git.
+Es gibt viel gute IDEs, die Wahl der Richtigen hängt von eurem Technologie Stack ab. Als Web Entwickler konzetrieren wir uns auf [HTML](), CSS, JavaScript, PHP, NodeJS, Git.
 - [Sublime Text](https://www.sublimetext.com/)
 - [Adobe Edge Code](http://www.adobe.com/de/products/edge-code.html)
 - [Brackets](http://brackets.io/)
@@ -107,7 +107,7 @@ cmd + shift + I
 
 <br>
 
-## 03 - html
+## 03 - HTML
 
 - HTML (Hypertext Markup Language)
 - HTML beschreibt die semantische Dokumentenstruktur von Webapplikationen
@@ -142,7 +142,7 @@ Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument. Wir verw
 
 - [Doctype Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/01-html/doctype/doctype.html)
 
-### Head
+### <HEAD>
 Das Head Element ist ein Container für Metadaten. Metadaten beinhalten Informationen über das HTML Dokument wie z.B. 'character sets', 'styles', 'links', 'scripts'...
 
 ````
@@ -161,7 +161,7 @@ Das Head Element ist ein Container für Metadaten. Metadaten beinhalten Informat
 ```
 [The minimum every software developer must know about unicodes and character sets.](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
-### <body>
+### <BODY>
 Der Body definiert Inhalte von HTML Dokumenten wie Überschriften, Text, Hyperlinks, Bilder, Listen und Tabellen.
 - [Lister HTML5 Elemente](https://developer.mozilla.org/de/docs/Web/HTML/HTML5/HTML5_element_list)
 
