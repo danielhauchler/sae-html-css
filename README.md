@@ -46,7 +46,7 @@ Der Terminal, auch die Kommandozeile "Command Line" liefert uns eine Befehlszeil
 
 ![Terminal](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/terminal.png)
 
-Rudimentäre Befehle im Terminal.
+Rudimentäre Kommandozeilen-Befehle.
 - [Terminal Cheatsheet for Mac (Basics)](https://github.com/danielhauchler/terminal-mac-cheatsheet)
 
 Ein nützliches Plugin Bundle und Theme für den Terminal.
