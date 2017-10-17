@@ -40,7 +40,6 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, welches den H
 - [Emmet.io](https://emmet.io/)
 - [Emmet Docs](https://docs.emmet.io/)
 
-<br>
 
 ### Terminal (Command Line Interface)
 
