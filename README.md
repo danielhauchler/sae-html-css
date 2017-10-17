@@ -142,26 +142,6 @@ Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument. Wir verw
 ### <head>
 Das <head> Element ist ein Container für Metadaten. Metadaten beinhalten Informationen über das HTML Dokument wie z.B. 'character sets', 'styles', 'links', 'scripts'...
 
-#### Tags
-
-##### Metadaten des Dokuments
-Kopfzeile des HTML Dokumentes
-````
-<head></head>
-
-// Title
-<title></title>
-
-// Meta Daten
-<meta>
-
-// Link für externe Ressourcen
-<link>
-
-// Internes Stylesheet
-<style></style>
-````
-
 - [HTML Elemente für den <head>.](https://github.com/danielhauchler/HEAD)
 
 ##### Unicodes and Character Sets
@@ -170,88 +150,10 @@ Kopfzeile des HTML Dokumentes
 ```
 [Article - Joel Spolsky](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
-
-
 ### <body>
 Der Body definiert Inhalte von HTML Dokumenten wie Überschriften, Text, Hyperlinks, Bilder, Listen und Tabellen.
 - [Lister HTML5 Elemente](https://developer.mozilla.org/de/docs/Web/HTML/HTML5/HTML5_element_list)
 
-#### Tags
-
-##### Abschnitte und Sektionen
-
-Body
-````
-<body></body>
-````
-Navigation
-````
-<nav></nav>
-````
-Section
-````
-<section></section>
-````
-Kopfzeile
-````
-<header></header>
-````
-Fußzeile
-````
-<footer></footer>
-````
-
-##### Semantische Text-Elemente
-
-Headlines
-````
-<h1></h1>
-<h2></h2>
-<h3></h3>
-<h4></h4>
-<h5></h5>
-<h6></h6>
-````
-Paragraph
-````
-<p></p>
-````
-Listen
-````
-// unordered
-<ul>
-  <li></li>
-  <li></li>
-</ul>
-// ordered
-<ol>
-  <li></li>
-  <li></li>
-</ol>
-````
-Tabellen
-````
-<table>
-  <tr>
-    <th>A</th>
-    <th>B</th>
-    <th>C</th>
-  </tr>
-  <tr>
-    <td>D</td>
-    <td>E</td>
-    <td>F</td>
-  </tr>
-</table>
-````
-Links
-````
-<a href="http://google.com">Linktext</a>
-````
-Bilder
-````
-<img src="Bildpfad" title="Einzigartiker Bildtitel" alt="Einzigartike Bildbeschreibung">
-````
 
 #### Kommentare
 ```
