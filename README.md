@@ -8,7 +8,7 @@
 
 > **17.10.2017** // Browser, Chrome DevTools, HTML, CSS
 
-> **25.10.2017** // Chrome DevTools, HTML, CSS (Schwerpunkt CSS)
+> **25.10.2017** // Chrome DevTools, HTML, CSS
 
 <br>
 
