@@ -10,8 +10,8 @@
 
 <br>
 
-- [Roadmap to become a web developer in 2017.](https://github.com/danielhauchler/developer-roadmap)
-- [Notizen aus unseren Sessions.](https://docs.google.com/document/d/17UVzmxNfac6yb9yI6B0vMZwanRJNC34Tepmt1gZ7-rI/edit)
+- [Roadmap to become a web developer in 2017](https://github.com/danielhauchler/developer-roadmap)
+- [Notizen aus unseren Sessions](https://docs.google.com/document/d/17UVzmxNfac6yb9yI6B0vMZwanRJNC34Tepmt1gZ7-rI/edit)
 
 <br>
 
