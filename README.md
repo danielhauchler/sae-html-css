@@ -96,9 +96,8 @@ cmd + shift + I
 
 <br>
 
-## 02 - HTML
+## 02 - HTML (Hypertext Markup Language)
 
-- HTML (Hypertext Markup Language)
 - HTML beschreibt die semantische Dokumentenstruktur von Web Applikationen
 - HTML Tags repräsentieren HTML Elemente
 - HTML Elemente bilden eine Baumstruktur, auch bezeichnet als DOM (Dokumenten-Objekt-Modell)
@@ -175,12 +174,12 @@ __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-ht
 
 <br>
 
-## 03 - CSS
+## 03 - CSS (Cascading Style Sheets)
 CSS ist eine Stylesheet-Sprache für elektronische Dokumente mit der Gestaltungsanweisungen erstellt werden.
 
 - [Can i use?](https://caniuse.com/])
 
-### Style Implementierung
+### CSS Implementierung
 #### Inline
 #### Internal
 #### External
