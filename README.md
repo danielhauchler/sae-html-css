@@ -100,8 +100,12 @@ cmd + shift + I
 
 - HTML beschreibt die semantische Dokumentenstruktur von Web Applikationen
 - HTML Tags repräsentieren HTML Elemente
-- HTML Elemente bilden eine Baumstruktur, auch bezeichnet als DOM (Dokumenten-Objekt-Modell)
+- HTML Elemente bilden eine Baumstruktur, auch DOM (Dokumenten-Objekt-Modell) gegannt
+- DOM-Elemente bildet Knoten, jeder Knoten bildet ein Objekt
+- Objekte repräsentieren Teile des Dokumentes
 - Browser nutzen das DOM um Inhalte zu rendern
+
+![DOM-Knoten](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/dom-knoten.png)
 
 [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/), Wegbereiter des World Wide Webs und Director des World Wide Web Consortiums ([W3C](https://www.w3.org/)).
 
