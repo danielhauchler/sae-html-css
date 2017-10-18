@@ -58,7 +58,7 @@ Ein nützliches Plugin Bundle und Theme für den Terminal
 
 ##### Git
 
-Freie Software zur Versionsverwaltung von publiken und privaten Dateien/Projekten innerhalb eines Repositoriums.
+Freie Software zur Versionsverwaltung von Dateien/Projekten innerhalb eines 'privat' oder 'public' Repositorys.
 
 - [Git](https://git-scm.com/)
 
