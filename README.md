@@ -40,6 +40,7 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, welches den H
 - [Emmet.io](https://emmet.io/)
 - [Emmet Docs](https://docs.emmet.io/)
 
+<br>
 
 ### Terminal (Command Line Interface)
 
@@ -53,10 +54,9 @@ Betriebssystem basierte Kommandozeilen-Befehle
 Ein nützliches Plugin Bundle und Theme für den Terminal
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
+<br>
 
-#### Command Line Tool
-
-##### Git
+#### Git
 
 Open-Source Software zur verteilten Versionsverwaltung, stetiger Protokollierung von Änderungen eurer Dateien/Projekte innerhalb eines "Repositories". Vor allem in der Programmierung dient es dazu die eigenen Änderungen zu überwachen, sie rückgängig zu machen, sie anderen über sogenannte Repos zur Verfügung zu stellen oder Aktualisierungen von anderen einzuholen.
 
@@ -73,6 +73,7 @@ Folgend Online-Dienste zur webbasierter Versionsverwaltung.
 - [GitHub](https://github.com/) 
 - [Bitbucket von Atlassian](https://bitbucket.org/) (kostenfreie "Privat" and Public Repositories")
 
+<br>
 
 ### Webbrowser
 
@@ -86,6 +87,7 @@ Ein Computerprogramm zur Visualisierung von HTML Dokumenten, Vektor Grafiken, Bi
 
 Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser.](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
 
+<br>
 
 ### Dev Tools
 Google Chrome Developer Tools zum debuggen von Web Applikationen.
