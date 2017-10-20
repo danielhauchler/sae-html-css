@@ -58,14 +58,20 @@ Ein nützliches Plugin Bundle und Theme für den Terminal
 
 ##### Git
 
-Freie Software zur Versionsverwaltung von Dateien/Projekten innerhalb eines 'privat' oder 'public' Repositorys.
+Open-Source Software zur verteilten Versionsverwaltung, stetiger Protokollierung von Änderungen eurer Dateien/Projekte innerhalb eines "Repositories". Vor allem in der Programmierung dient es dazu die eigenen Änderungen zu überwachen, sie rückgängig zu machen, sie anderen über sogenannte Repos zur Verfügung zu stellen oder Aktualisierungen von anderen einzuholen.
 
-- [Git](https://git-scm.com/)
+- Die eigene Arbeit kann einfach wieder in die zentrale Basis integriert werden.
+- Es kann zeitgleich weiterentwickelt werden, z.B. jeder an verschiedenen Features.
+- Die Versionierung verhindert, dass bereits getätigte Arbeiten verloren gehen bzw. überschrieben werden.
+- Bei Bedarf kann zu früheren Versionen zurückgekehrt werden oder simultan an verschiedenen Versionen gearbeitet werden (auch "Branches" genannt).
 
-Online-Dienste zur webbasierter Versionsverwaltung
+Für die Nutzung muss folgende Software auf eurem Betriebssystem installiert sein:
+- [Git](https://git-scm.com/), Download unter [https://git-scm.com/downloads](https://git-scm.com/download/mac).
 
-- [GitHub](https://github.com/)
-- [Bitbucket von Atlassian](https://bitbucket.org/)
+Folgend Online-Dienste zur webbasierter Versionsverwaltung.
+
+- [GitHub](https://github.com/) 
+- [Bitbucket von Atlassian](https://bitbucket.org/) (kostenfreie "Privat" and Public Repositories")
 
 
 ### Webbrowser
