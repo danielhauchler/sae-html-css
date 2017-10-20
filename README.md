@@ -77,7 +77,7 @@ Folgend Online-Dienste zur webbasierter Versionsverwaltung.
 
 ### Webbrowser
 
-Ein Computerprogramm zur Visualisierung von HTML Dokumenten, Vektor Grafiken, Bildern und PDF-Dokumenten durch Zuhilfenahme von Cascading Stylesheets. [Browse Happy!](https://browsehappy.com/)
+Ein Computerprogramm zur Darstellung von Webseiten im World Wide Webs basierend auf HTML Dokumenten, Vektor Grafiken, Bildern und PDF-Dokumenten durch Zuhilfenahme von Cascading Stylesheets. [Browse Happy!](https://browsehappy.com/)
 
 - [Google Chrome](https://www.google.de/chrome/browser/desktop/index.html) (WebKit / V8)
 - [Mozilla Firefox](https://www.mozilla.org/de/firefox/) (Gecko)
