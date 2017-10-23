@@ -194,9 +194,9 @@ CSS ist eine Stylesheet-Sprache für elektronische Dokumente mit der Gestaltungs
 ### CSS Einbindung
 Es gibt verschiedene Wege CSS zu implementieren:
 
-- Inline Styles - innerhalb von HTML-Elementen
-- Internal Styles - im Head des HTML-Dokumentes
-- External Styles - ausgelagertes Stylesheet in externer CSS-Datei
+- **Inline Styles** - innerhalb von HTML-Elementen
+- **Internal Styles** - im Head des HTML-Dokumentes
+- **External Styles** - ausgelagertes Stylesheet in externer CSS-Datei
 
 #### Inline Styles
 Inline-Styles sind an ein Element gebunden und können nicht an zentraler Stelle bearbeitet werden. Die Formatdefinition gilt dann nur für den Geltungsbereich des betreffenden HTML-Elements. Innerhalb eines einleitenden HTML-Elements wird das globale Attribut style verwendet. Die Wertzuweisung an das style-Attribut besteht in einer oder mehreren CSS-Formatdefinitionen.
