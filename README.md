@@ -192,10 +192,59 @@ CSS ist eine Stylesheet-Sprache für elektronische Dokumente mit der Gestaltungs
 - [Can i use?](https://caniuse.com/])
 
 ### CSS Implementierung
-#### Inline
-#### Internal
-#### External
+#### Inline (direkt im Quellcode)
+ Inline-Styles sind an ein Element gebunden und können nicht an zentraler Stelle bearbeitet werden. Durch das direkte Festlegen von Formaten, umgangsprachlich auch „Inline-Style“ genannt, gehen viele Vorteile verloren. Der Wartungsaufwand steigt während sich die Flexibilität verringert.
 
+Direkt im Quellcode wirkt der Befehl nur an dieser bestimmten Stelle der Seite, so dass man abweichende Designs verwenden kann.
+
+Beispiel:
+
+<h1 style="color: red;">Überschrift</h1>
+Die Überschrift wird in rot dargestellt.
+
+
+#### Internal (am Anfang der HTML-Datei)
+Hier sind die CSS-Anweisungen direkt in der HTML-Datei eingebunden und es kann schnell getestet werden.
+
+Im Kopfbereich der HTML-Datei werden die CSS-Eigenschaften definiert. Diese wirken dann auf das ganze HTML-Dokument.
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<style>
+h1 {
+    color: red;
+    background-color: black;
+}
+</style>
+</head>
+<body>
+<h1>jetzt HTML lernen mit CSS</h1>
+</body>
+</html>
+
+
+#### External (ausgelagert in extra CSS-Datei)
+Hier werden die CSS-Anweisungen in einer externen Datei hinterlegt und diese Datei wird dann in jede HTML-Seite eingebunden.
+
+Zum Auslagern werden 2 Dinge benötigt. Als erstes eine neue Datei, ich nenne diese design.css (kann aber auch beliebig anders heißen) und als zweites einen Verweis darauf in der HTML-Datei, die diese ausgelagerte Datei nutzen soll.
+
+Verweis in der HTML-Datei:
+
+Dieser Verweis sollte im head-Bereich eingegeben werden.
+
+<link href="design.css" rel="stylesheet">
+Nun erstellen wir eine neue Datei mit dem Namen „design.css“, die im selben Verzeichnis wie die HTML-Datei liegen muss!
+
+Inhalt:
+
+h1 {
+    color: red;
+    background-color: black;
+}
+Unbedingt auf Leerzeichen achten, und als Klammern kommen hier die geschweiften zum Zuge!! So, CSS-Datei abspeichern und im HTML Editor die Vorschau für die HTML-Datei aufrufen.
+
+Jetzt sollten wir die Überschrift <h1> in roter Schrift auf schwarzem Grund haben.
 
 ### Box Model
 ### CSS3
