@@ -205,7 +205,7 @@ Inline-Styles sind an ein Element gebunden und können nicht an zentraler Stelle
 ````
 Sinnvoll ist die Verwendung von Inline-Styles, wenn Du sonst auf CSS verzichten möchtest und es nur mal für ein paar Ausnahmen benötigst, oder wenn Du zentrale Formate verwendest, einzelne Elemente aber ausnahmsweise anders gestalten möchten. Darüber hinaus ist das Injekten von Inline-Styles per Javascript üblich, weiteres hierzu später.
 
-Grundsätzlich solltest du die Verwendung von „Inline-Styles“ meiden, da du keine globalen Änderungen mehr vornehmen kannst es somit den Wartungsaufwand erhöht.
+Grundsätzlich solltest du die Verwendung von „Inline-Styles“ meiden, da du keine globalen Änderungen mehr vornehmen kannst und es den Wartungsaufwand erhöht.
 
 Beispiel:
 ````
