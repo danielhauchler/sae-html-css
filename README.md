@@ -203,7 +203,7 @@ Inline-Styles sind an ein Element gebunden und können nicht an zentraler Stelle
 ````
   <HTML-Tag style="Formatdefinition-01, Formatdefinition-02"></HTML-Tag>
 ````
-Sinnvoll ist die Verwendung von Inline-Styles, wenn Du sonst auf CSS verzichten möchtest und es nur mal für ein paar Ausnahmen benötigst, oder wenn Du zentrale Formate verwendest, einzelne Elemente aber ausnahmsweise anders gestalten möchten. Darüber hinaus ist das Injekten von Inline-Styles per Javascript üblich, weiteres hierzu später.
+Sinnvoll ist die Verwendung von Inline-Styles, wenn Du sonst auf CSS verzichten möchtest und es nur mal für ein paar Ausnahmen benötigst, oder wenn Du zentrale Formate verwendest, einzelne Elemente aber ausnahmsweise anders gestalten möchtest. Darüber hinaus ist das Injekten von Inline-Styles per Javascript üblich, weiteres hierzu später.
 
 Grundsätzlich solltest du die Verwendung von „Inline-Styles“ meiden, da du keine globalen Änderungen mehr vornehmen kannst und es den Wartungsaufwand erhöht.
 
