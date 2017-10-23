@@ -25,18 +25,18 @@
 
 Die [IDE (integrierte Entwicklungsumgebung)](https://de.wikipedia.org/wiki/Integrierte_Entwicklungsumgebung/) sammelt unter einer gemeinsamen Oberfläche die wichtigsten Tools für das Erstellen von Software, wie z.B. [Quelltextformatierung](https://de.wikipedia.org/wiki/Quelltextformatierung), [Syntaxhervorhebung](https://de.wikipedia.org/wiki/Syntaxhervorhebung), [Compiler](https://de.wikipedia.org/wiki/Compiler), [Debugger](https://de.wikipedia.org/wiki/Debugger), [Interpreter](https://de.wikipedia.org/wiki/Interpreter), [Versionskontrolle](https://git-scm.com/book/de/v1/Los-geht%E2%80%99s-Wozu-Versionskontrolle%3F) und Werkzeuge für das Erstellen von grafischen Oberflächen.
 
-Es gibt viele gute IDEs, die Wahl der Richtigen hängt von eurem Technologie Stack ab. Als Web Entwickler konzetrieren wir uns auf HTML, CSS, JavaScript, Node, PHP, SQL, Python, Git und beliebige Task Runner.
+Es gibt viele gute IDEs, die Wahl der Richtigen hängt von eurem Technologie Stack ab. Als Web Entwickler konzetriere ich mich in unseren Start Coding Sessions auf HTML, CSS, JavaScript, Node, PHP, SQL, Git und beliebige Task Runner.
 - [Sublime Text](https://www.sublimetext.com/)
 - [Adobe Edge Code](http://www.adobe.com/de/products/edge-code.html)
 - [Brackets](http://brackets.io/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [Netbeans](https://netbeans.org/)
-
+... sind alles mächtige IDEs!
 Für unsere Zwecke empfehle ich im Augenblick den Visual Studio Code von Microsoft.
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, welches den HTML- und CSS-Workflow erheblich verbessert!
+Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, welches den HTML- und CSS-Workflow erheblich verbessert! - in Visual Studio Code schon standardmäßig implementiert.
 - [Emmet.io](https://emmet.io/)
 - [Emmet Docs](https://docs.emmet.io/)
 
@@ -44,8 +44,8 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, welches den H
 
 ### Terminal (Command Line Interface)
 
-Der Terminal, auch die Kommandozeile und "Command Line" liefert uns eine Befehlszeilenschnittstelle und textbasierten Zugriff auf unser Betriebssystem.
 
+Der Terminal, auch als Kommandozeile oder "Command Line" bezeichnet, liefert uns eine Befehlszeilenschnittstelle und textbasierten Zugriff auf unser Betriebssystem.
 ![Terminal](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/terminal.png)
 
 Betriebssystem basierte Kommandozeilen-Befehle
@@ -73,11 +73,13 @@ Folgend Online-Dienste zur webbasierter Versionsverwaltung.
 - [GitHub](https://github.com/) 
 - [Bitbucket von Atlassian](https://bitbucket.org/) (kostenfreie "Privat" and Public Repositories")
 
+Du befindest dich gerade in einem meiner Ropositorys auf [Github](https://github.com/). Hier aktualisiere, versioniere und teile ich den aktuellen Stand unseres Quellcodes aus den Sessions, sowie diese Doku.
+
 <br>
 
 ### Webbrowser
 
-Webbrowser stellen die Benutzeroberfläche für Webanwendungen dar. Ein Computerprogramm zur Visualisierung von Webseiten im World Wide Web basierend auf HTML Dokumenten, Vektor Grafiken, Bildern und PDF-Dokumenten durch Zuhilfenahme von Cascading Stylesheets. [Browse Happy!](https://browsehappy.com/)
+Webbrowser stellen die Benutzeroberfläche für Webanwendungen dar. Ein Computerprogramm zur Visualisierung von Webseiten im World Wide Web basierend auf HTML Dokumenten, Vektor Grafiken, Bildern und PDF-Dokumenten durch Zuhilfenahme von [Cascading Stylesheets](## 03 - CSS (Cascading Style Sheets)). [Browse Happy!](https://browsehappy.com/)
 
 - [Google Chrome](https://www.google.de/chrome/browser/desktop/index.html) (WebKit / V8)
 - [Mozilla Firefox](https://www.mozilla.org/de/firefox/) (Gecko)
