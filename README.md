@@ -196,7 +196,7 @@ Für die Implementierung von CSS gibt es drei Möglichkeiten:
 
 - Inline Styles
 - Internal Styles
-- External swtyles
+- External Styles
 
 #### Inline (innerhalb von HTML-Tags)
 Innerhalb eines einleitenden HTML-Tags wird das globale Attribut style verwendet. Die Wertzuweisung an das style-Attribut besteht in einer oder mehreren CSS-Formatdefinitionen.
