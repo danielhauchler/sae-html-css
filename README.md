@@ -145,7 +145,6 @@ Dateiname:
 ````
 index.html
 ````
-
 Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument.
 
 ````
