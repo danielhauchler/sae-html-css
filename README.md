@@ -228,7 +228,7 @@ Hier sind die CSS-Anweisungen im Kopfbereich (Head) des HTML-Dokumentes platzier
   </style>
 </head>
 <body>
-  <h1>EIne Überschrift</h1>
+  <h1>Eine Überschrift</h1>
 </body>
 </html>
 ````
