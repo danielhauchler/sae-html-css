@@ -236,29 +236,40 @@ Ein Nachteil von internen Stylesheets ist, dass Änderungen nur die Seite selbt 
 
 
 #### External Styles
-Hier werden die CSS-Anweisungen in einer externen Datei hinterlegt und diese Datei wird dann in jede HTML-Seite eingebunden.
+Eine externe CSS-Datei ist die erste Wahl, wenn mehr als ein HTML-Dokument mit denselben CSS-Regeln formatiert werden soll. Bei der Verwendung von externen Styles werden CSS-Anweisungen in eine externe CSS-Datei (style.css) ausgelagert, welche im Head des Dokumentes über ein link-Tag eingebunden wird.
 
-Zum Auslagern werden 2 Dinge benötigt. Als erstes eine neue Datei, ich nenne diese design.css (kann aber auch beliebig anders heißen) und als zweites einen Verweis darauf in der HTML-Datei, die diese ausgelagerte Datei nutzen soll.
-
-Verweis in der HTML-Datei:
-
-Dieser Verweis sollte im head-Bereich eingegeben werden.
-
-<link href="design.css" rel="stylesheet">
-Nun erstellen wir eine neue Datei mit dem Namen „design.css“, die im selben Verzeichnis wie die HTML-Datei liegen muss!
-
-Inhalt:
+Inhalt des ausgelagerten Stylesheets:
 ````
 h1 {
     color: white;
     background-color: black;
 }
 ````
-Unbedingt auf Leerzeichen achten, und als Klammern kommen hier die geschweiften zum Zuge!! So, CSS-Datei abspeichern und im HTML Editor die Vorschau für die HTML-Datei aufrufen.
 
-Jetzt sollten wir die Überschrift "h1" in roter Schrift auf schwarzem Grund haben.
+Einbindung im Head des HTML-Dokumentes:
+````
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" src="css/style.css"
+</head>
+<body>
+  <h1>Eine Überschrift</h1>
+</body>
+</html>
+````
+
+CSS ist nicht auf eine externe CSS-Datei beschränkt. Mit HTML link-Tags und der import-Regel können beliebig viele externe CSS-Dateien eingebunden werden.
+
+Grundsätzlich ist es besser, nicht zu viele CSS-Dateien anzulegen. Jede CSS-Datei wird mit einem HTTP-Request geladen – das kostet vor allem bei den mobilen Geräte zusätzliche Ladezeit für die CSS-Dateien.
+
+Damit eine große CSS-Datei übersichtlich bliebt, helfen ein CSS-Reset, eine strikte Organisation und eine saubere Struktur.
 
 #### Cascading
+Wenn CSS-Stile in Konflikt geraten, weil sie extern in der CSS-Datei, im style-Tag, in einer inline-Regel und im Stylesheet des Benutzers unterschiedlich deklariert sind, löst die Kaskade den Konflikt. Die Regel, die dem Element am nächsten liegt, hat die höhere Priorität.
+
+- Eine CSS-Eigenschaft überschreibt die vom Browser vorgegebene Eigenschaft.
+- Führen CSS-Stile zu Konflikten innerhalb des globalen Stylesheets, übertrumpft die zuletzt im globalen Stylesheet aufgeführt Anweisung.
 
 ![Stylesheet Cascading](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/cascading.png)
 
