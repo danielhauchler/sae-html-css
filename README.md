@@ -32,6 +32,7 @@ Es gibt viele gute IDEs, die Wahl der Richtigen hängt von eurem Technologie Sta
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
 - [Netbeans](https://netbeans.org/)
+
 ... sind alles mächtige IDEs!
 Für unsere Zwecke empfehle ich im Augenblick den Visual Studio Code von Microsoft.
 - [Visual Studio Code](https://code.visualstudio.com/)
