@@ -102,7 +102,7 @@ Keep calm and [browse happy!](https://browsehappy.com/) ;)
 
 ### Dev Tools
 
-Mit den Developer Tools können wir unseren Code testen und debuggen. Wir können im Browser unser erzeugtes HTML, CSS, das DOM, sowie JavaScript und andere Komponenten anfassen, die vom Webbrowser verarbeitet werden. 
+Mit den Developer Tools können wir unseren Code testen und debuggen. Wir können im Browser unser erzeugtes HTML, CSS, das DOM ([Document Object Model]()), sowie JavaScript und andere Komponenten anfassen, die vom Webbrowser verarbeitet werden. 
 
 Solche Web-Entwicklungstools unterscheiden sich von den Website-Buildern und den IDEs dadurch, dass sie nicht zur direkten Erstellung einer Webseite verwendet werden, sondern sie Werkzeuge zum Testen der Benutzeroberfläche einer Website oder einer Webanwendung sind. Die gängigsten Webbrowser wie Google Chrome, Firefox, Opera, Internet Explorer und Safari verfügen über integrierte Tools für Webentwickler. 
 
@@ -125,6 +125,8 @@ cmd + shift + I
 - DOM-Elemente bildet Knoten, jeder Knoten bildet ein Objekt
 - Objekte repräsentieren Teile des Dokumentes
 - Browser nutzen das DOM um Inhalte zu rendern
+
+### Document Object Model
 
 ![DOM-Knoten](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/dom-knoten.png)
 
