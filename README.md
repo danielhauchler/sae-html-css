@@ -101,10 +101,12 @@ Keep calm and [browse happy!](https://browsehappy.com/) ;)
 <br>
 
 ### Dev Tools
-Google Chrome Developer Tools zum debuggen von Web Applikationen.
 
-'Rechtsklick' + 'Untersuchen/Inspect'
+Mit den Developer Tools können wir unseren Code testen und debuggen. Wir können im Browser unser erzeugtes HTML, CSS, das DOM, sowie JavaScript und andere Komponenten anfassen, die vom Webbrowser verarbeitet werden. 
 
+Solche Web-Entwicklungstools unterscheiden sich von den Website-Buildern und den IDEs dadurch, dass sie nicht zur direkten Erstellung einer Webseite verwendet werden, sondern sie Werkzeuge zum Testen der Benutzeroberfläche einer Website oder einer Webanwendung sind. Die gängigsten Webbrowser wie Google Chrome, Firefox, Opera, Internet Explorer und Safari verfügen über integrierte Tools für Webentwickler. 
+
+'Rechtsklick' + 'Untersuchen/Inspect' oder auch:
 ```
 cmd + shift + I
 ```
