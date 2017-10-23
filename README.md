@@ -198,8 +198,6 @@ Für die Implementierung von CSS gibt es drei Möglichkeiten:
 - Internal Styles
 - External Styles
 
-![Stylesheet Cascading](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/cascading.png)
-
 #### Inline Styles (innerhalb von HTML-Tags)
 Inline-Styles sind an ein Element gebunden und können nicht an zentraler Stelle bearbeitet werden. Die Formatdefinition gilt dann nur für den Geltungsbereich des betreffenden HTML-Elements. Innerhalb eines einleitenden HTML-Tags wird das globale Attribut style verwendet. Die Wertzuweisung an das style-Attribut besteht in einer oder mehreren CSS-Formatdefinitionen.
 ````
@@ -259,6 +257,10 @@ h1 {
 Unbedingt auf Leerzeichen achten, und als Klammern kommen hier die geschweiften zum Zuge!! So, CSS-Datei abspeichern und im HTML Editor die Vorschau für die HTML-Datei aufrufen.
 
 Jetzt sollten wir die Überschrift <h1> in roter Schrift auf schwarzem Grund haben.
+
+#### Cascading
+
+![Stylesheet Cascading](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/cascading.png)
 
 ### Box Model
 ### CSS3
