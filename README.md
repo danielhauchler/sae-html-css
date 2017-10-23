@@ -209,14 +209,13 @@ Grundsätzlich solltest du die Verwendung von „Inline-Styles“ meiden, da du 
 
 Beispiel:
 ````
-<h1 style="color: white;background-color: black;">Überschrift</h1>
+<h1 style="color:white;background-color:black">Eine Überschrift</h1>
 ````
 *Inline-Styles, Überschrift ersten Grades in Weiß auf schwarzem Hintergrund.*
 
 
-
 #### Internal (im Head des HTML-Dokuments)
-Hier sind die CSS-Anweisungen im Kopfbereich (Head) der HTML-Datei platziert. Diese wirken dann auf das ganze HTML-Dokument.
+Hier sind die CSS-Anweisungen im Kopfbereich (Head) der HTML-Datei platziert und haben Auswirkungen auf das gesamte HTML-Dokument.
 ````
 <!DOCTYPE html>
 <html lang="de">
@@ -229,10 +228,14 @@ Hier sind die CSS-Anweisungen im Kopfbereich (Head) der HTML-Datei platziert. Di
 </style>
 </head>
 <body>
-  <h1>CSS Inline-Styles</h1>
+  <h1>EIne Überschrift</h1>
 </body>
 </html>
 ````
+
+Ein Nachteil von internen Stylesheets ist, dass Änderungen nur die Seite selbt beeinflussen, in der die Styles platziert wurden.
+
+
 
 #### External (ausgelagert in extra CSS-Datei)
 Hier werden die CSS-Anweisungen in einer externen Datei hinterlegt und diese Datei wird dann in jede HTML-Seite eingebunden.
