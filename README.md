@@ -82,7 +82,7 @@ Folgend Online-Dienste zur webbasierter Versionsverwaltung.
 
 Auch Git lässt sich mit Komandozeilen-Befehle über den Terminal steuern. Darüber hinaus gibt es Git Clients wie z.B. [Sourcetree](https://www.sourcetreeapp.com/) oder auch [Tower](https://www.git-tower.com/mac/). Unser Visual Studio Code verfügt bereits auch über einen rudimentären Git Client.
 
-![VSC Git Client](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/vsc-terminal.png)
+![VSC Git Client](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/vsc-git-client.png)
 
 > Im übrigen befindest Du dich gerade in einem meiner Ropositorys auf [Github](https://github.com/). Hier aktualisiere, versioniere und teile ich den aktuellen Stand unseres Quellcodes aus den Sessions, sowie diese Doku.
 
