@@ -192,21 +192,31 @@ CSS ist eine Stylesheet-Sprache für elektronische Dokumente mit der Gestaltungs
 - [Can i use?](https://caniuse.com/])
 
 ### CSS Implementierung
-#### Inline (direkt im Quellcode)
- Inline-Styles sind an ein Element gebunden und können nicht an zentraler Stelle bearbeitet werden. Durch das direkte Festlegen von Formaten, umgangsprachlich auch „Inline-Style“ genannt, gehen viele Vorteile verloren. Der Wartungsaufwand steigt während sich die Flexibilität verringert.
+Für die Einbindung von CSS gibt es drei Möglichkeiten:
 
-Direkt im Quellcode wirkt der Befehl nur an dieser bestimmten Stelle der Seite, so dass man abweichende Designs verwenden kann.
+- Inline Styles
+- Internal Styles
+- External swtyles
+
+#### Inline (innerhalb von HTML-Tags)
+Innerhalb eines einleitenden HTML-Tags wird das globale Attribut style verwendet. Die Wertzuweisung an das style-Attribut besteht in einer oder mehreren CSS-Formatdefinitionen.
+````
+  <HTML-Tag style=""></HTML-Tag>
+````
+Inline-Styles sind an ein Element gebunden und können nicht an zentraler Stelle bearbeitet werden. Die Formatdefinition gilt dann nur für den Geltungsbereich des betreffenden HTML-Elements. Sinnvoll ist die Verwendung von Inline-Styles, wenn Du sonst auf CSS verzichten möchtest und es nur mal für ein paar Ausnahmen benötigst, oder wenn Du zentrale Formate verwendest, einzelne Elemente aber ausnahmsweise anders gestalten möchten. Darüber hinaus ist das Injekten von Inline-Styles per Javascript üblich, weiteres hierzu später.
+
+Grundsätzlich solltest du die Verwendung von „Inline-Styles“ meiden, da du keine globalen Änderungen mehr vornehmen kannst es somit den Wartungsaufwand erhöht.
 
 Beispiel:
-
+````
 <h1 style="color: red;">Überschrift</h1>
-Die Überschrift wird in rot dargestellt.
+````
+*Die Überschrift wird in rot dargestellt.*
 
 
-#### Internal (am Anfang der HTML-Datei)
-Hier sind die CSS-Anweisungen direkt in der HTML-Datei eingebunden und es kann schnell getestet werden.
 
-Im Kopfbereich der HTML-Datei werden die CSS-Eigenschaften definiert. Diese wirken dann auf das ganze HTML-Dokument.
+#### Internal (im Head der HTML-Datei)
+Hier sind die CSS-Anweisungen im Kopfbereich (Head) der HTML-Datei platziert. Diese wirken dann auf das ganze HTML-Dokument.
 
 <!DOCTYPE html>
 <html lang="de">
@@ -242,6 +252,7 @@ h1 {
     color: red;
     background-color: black;
 }
+
 Unbedingt auf Leerzeichen achten, und als Klammern kommen hier die geschweiften zum Zuge!! So, CSS-Datei abspeichern und im HTML Editor die Vorschau für die HTML-Datei aufrufen.
 
 Jetzt sollten wir die Überschrift <h1> in roter Schrift auf schwarzem Grund haben.
