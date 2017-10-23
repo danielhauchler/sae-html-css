@@ -49,10 +49,10 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, welches den H
 Der Terminal, auch als Kommandozeile oder "Command Line" bezeichnet, liefert uns eine Befehlszeilenschnittstelle und textbasierten Zugriff auf unser Betriebssystem.
 ![Terminal](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/terminal.png)
 
-Betriebssystem basierte Kommandozeilen-Befehle
+Grundlegende Betriebssystem basierte Kommandozeilen-Befehle:
 - [Terminal Cheatsheet for Mac (Basics)](https://github.com/danielhauchler/terminal-mac-cheatsheet)
 
-Ein nützliches Plugin Bundle und Theme für den Terminal
+Und noch ein nützliches Plugin Bundle und Theme für den Terminal (nicht notwenig!):
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 <br>
