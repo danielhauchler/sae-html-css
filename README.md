@@ -65,7 +65,7 @@ Shift + control + `
 
 ### Git
 
-Open-Source Software zur verteilten Versionsverwaltung, stetiger Protokollierung von Änderungen eurer Dateien/Projekte innerhalb eines "Repositories". Vor allem in der Programmierung dient es dazu die eigenen Änderungen zu überwachen, sie rückgängig zu machen, sie anderen über sogenannte Repos zur Verfügung zu stellen oder Aktualisierungen von anderen einzuholen.
+Open-Source Software zur verteilten Versionsverwaltung, stetiger Protokollierung von Änderungen eurer Dateien/Projekte innerhalb eines Repositorys. Vor allem in der Programmierung dient es dazu die eigenen Änderungen zu überwachen, sie rückgängig zu machen, sie anderen über sogenannte Repos zur Verfügung zu stellen oder Aktualisierungen von anderen einzuholen.
 
 - Die eigene Arbeit kann einfach wieder in die zentrale Basis integriert werden.
 - Es kann zeitgleich weiterentwickelt werden, z.B. jeder an verschiedenen Features.
