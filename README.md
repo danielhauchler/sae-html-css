@@ -72,7 +72,7 @@ Open-Source Software zur verteilten Versionsverwaltung, stetiger Protokollierung
 - Die Versionierung verhindert, dass bereits getätigte Arbeiten verloren gehen bzw. überschrieben werden.
 - Bei Bedarf kann zu früheren Versionen zurückgekehrt werden oder simultan an verschiedenen Versionen gearbeitet werden (auch "Branches" genannt).
 
-> Im übrigen befindest Du dich gerade in einem meiner Ropositorys auf [Github](https://github.com/). Hier aktualisiere, versioniere und teile ich den aktuellen Stand unseres Quellcodes aus den Sessions, sowie diese Doku.
+> Im übrigen befindest Du dich gerade auch in einem meiner Ropositorys auf [Github](https://github.com/). Hier aktualisiere, versioniere und teile ich den aktuellen Stand unseres Quellcodes aus den Sessions, sowie diese Doku.
 
 Für die Nutzung muss folgende Software auf eurem Betriebssystem installiert sein:
 - [Git](https://git-scm.com/), Download unter [https://git-scm.com/downloads](https://git-scm.com/download/mac).
