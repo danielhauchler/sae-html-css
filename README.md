@@ -189,7 +189,7 @@ __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-ht
 ## 03 - CSS (Cascading Style Sheets)
 CSS ist eine Stylesheet-Sprache für elektronische Dokumente mit der Gestaltungsanweisungen erstellt werden.
 
-![Stylesheet Cascading](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/cascading.png)
+![Stylesheet Cascading](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/cascading.svg)
 
 
 - [Can i use?](https://caniuse.com/])

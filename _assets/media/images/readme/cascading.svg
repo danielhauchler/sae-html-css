@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 164" style="enable-background:new 0 0 300 164;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A0BFAD;}
+	.st1{fill:#D4D9E2;}
+	.st2{fill:#D4D9E2;stroke:#DFDFDF;}
+	.st3{fill:#758295;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:12.5839px;}
+	.st6{fill:#BFC6D2;stroke:#DFDFDF;}
+	.st7{font-size:9.0604px;}
+	.st8{fill:#D4E2DA;stroke:#DFDFDF;}
+	.st9{fill:#BFD2C7;stroke:#DFDFDF;}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:#FF7F2A;stroke:#DFDFDF;}
+	.st12{fill:none;stroke:#FF7F2A;stroke-width:6;}
+	.st13{fill:#D4E2DA;}
+	.st14{stroke:#DFDFDF;}
+	.st15{fill:none;stroke:#B3B3B3;stroke-width:4;}
+	.st16{fill:#B3B3B3;}
+	.st17{fill:none;stroke:#999999;stroke-width:4;}
+</style>
+<title>CSS Cascading: inline-CSS im style-Attribut überschreibt CSS im style-Tag</title>
+<rect x="113.3" y="120.4" class="st0" width="186.8" height="38.4"/>
+<rect y="71.9" class="st1" width="81.1" height="16.7"/>
+<path class="st2" d="M0.1,5.9v51.8h69V31.4L43.7,5.9H0.1z"/>
+<text transform="matrix(1 0 0 1 8.0889 46.4189)" class="st3 st4 st5">style.css</text>
+<path class="st6" d="M69.2,31.4L43.7,5.9v25.4H69.2z"/>
+<text transform="matrix(1 0 0 1 1.2583 83.7686)" class="st4 st7">a { color: #c99 }</text>
+<path class="st8" d="M93.8,5.9v51.8h69V31.4L137.4,5.9H93.8z"/>
+<text transform="matrix(1 0 0 1 96.644 46.2686)" class="st3 st4 st5">page.html</text>
+<path class="st9" d="M162.8,31.4L137.4,5.9v25.4H162.8L162.8,31.4z"/>
+<text transform="matrix(1 0 0 1 114.2617 131.8389)" class="st10 st4 st7">&lt;body&gt;</text>
+<text transform="matrix(1 0 0 1 114.2617 143.1641)" class="st10 st4 st7">&lt;li&gt;&lt;a style=&quot;color: #acc&quot;&gt;&lt;/a&gt;&lt;/li&gt;</text>
+<text transform="matrix(1 0 0 1 114.2617 154.7422)" class="st10 st4 st7">&lt;/body&gt;</text>
+<circle class="st11" cx="103.7" cy="53.6" r="3.1"/>
+<circle class="st11" cx="112.2" cy="127.2" r="3.1"/>
+<path class="st12" d="M103.7,53.2v74.1h9"/>
+<rect x="94.1" y="71.9" class="st13" width="113" height="42.9"/>
+<text transform="matrix(1 0 0 1 95.6377 86.7891)" class="st4 st7">&lt;style&gt;</text>
+<text transform="matrix(1 0 0 1 95.6377 98.3652)" class="st4 st7">li a { color: orange }</text>
+<text transform="matrix(1 0 0 1 95.6377 109.9434)" class="st4 st7">&lt;/style&gt;</text>
+<circle class="st11" cx="138.9" cy="53.6" r="3.1"/>
+<path class="st12" d="M138.9,53.2v19.6"/>
+<circle class="st11" cx="138.9" cy="71.8" r="3.1"/>
+<circle class="st14" cx="9.8" cy="53.6" r="3.1"/>
+<circle class="st11" cx="9.8" cy="71.8" r="3.1"/>
+<path class="st12" d="M9.6,53.2v18.6"/>
+<path class="st15" d="M107.9,151.1c-39.8,0-39.7-32.7-21.7-37.5"/>
+<path class="st16" d="M89.7,111.6l-4.8,8.3l-4.8-8.3L89.7,111.6z"/>
+<path class="st17" d="M92.6,94.3c-45.2,28.3-74.8,32-74.8,1.8"/>
+<path class="st16" d="M18.1,89.6l4.8,8.3h-9.6L18.1,89.6z"/>
+</svg>
