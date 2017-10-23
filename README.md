@@ -45,15 +45,21 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, welches den H
 
 ### Terminal (Command Line Interface)
 
-
 Der Terminal, auch als Kommandozeile oder "Command Line" bezeichnet, liefert uns eine Befehlszeilenschnittstelle und textbasierten Zugriff auf unser Betriebssystem.
 ![Terminal](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/terminal.png)
 
 Grundlegende Betriebssystem basierte Kommandozeilen-Befehle:
 - [Terminal Cheatsheet for Mac (Basics)](https://github.com/danielhauchler/terminal-mac-cheatsheet)
 
-Und noch ein nützliches Plugin Bundle und Theme für den Terminal (nicht notwenig!):
+Und noch ein nützliches Plugin Bundle und Theme für den Terminal:``
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+
+Auch unsere IDE, der Visual Studio Code verfügt über eine integrierte IDE.
+Öffnen könnt ihr sie entweder über das Menü 'Anzeigen' > 'Integriertes Terminal' oder mit dem Shortcut:
+````
+Shift + control + `
+````
+![VSC Terminal](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/vsc-terminal.png)
 
 <br>
 
