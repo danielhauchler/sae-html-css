@@ -132,6 +132,8 @@ cmd + shift + I
 
 ### Document Object Model
 
+Dokumenten-Objekt-Modell ist eine Spezifikation, welche HTML- oder XML-Dokumente als eine Baumstruktur darstellt, in der jeder Knoten ein Objekt ist, welches einen Teil des Dokumentes repräsentiert, z.B. einen Absatz, eine Überschrift, ein Video oder etwa eine Tabellenzelle.
+
 ![DOM-Knoten](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/dom-knoten.png)
 
 [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/), Wegbereiter des World Wide Webs und Director des World Wide Web Consortiums ([W3C](https://www.w3.org/)).
