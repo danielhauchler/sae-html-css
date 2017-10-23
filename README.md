@@ -94,8 +94,7 @@ Webbrowser stellen die Benutzeroberfläche für Webanwendungen dar und sind Comp
 - [Internet Explorer](https://www.microsoft.com/de-de/download/internet-explorer.aspx) (Trident)
 - [Opera](http://www.opera.com/de/download) (Presto)
 
-Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser.](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
-(Nicht nötig zu verstehen, lediglich ein guter Artikel!)
+Folgender Artikel ist nicht nötig zu lesen oder zu verstehen! Es ist lediglich ein guter Artikel über die Funktionsweise von Browsern. [Hinter den Kulissen moderner Web-Browser.](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
 
 Keep calm and [browse happy!](https://browsehappy.com/) ;)
 
