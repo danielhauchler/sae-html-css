@@ -207,11 +207,11 @@ Sinnvoll ist die Verwendung von Inline-Styles, wenn Du sonst auf CSS verzichten 
 
 Grundsätzlich solltest du die Verwendung von „Inline-Styles“ meiden, da du keine globalen Änderungen mehr vornehmen kannst und es den Wartungsaufwand erhöht.
 
-Beispiel:
+Beispiel: *Eine Überschrift ersten Grades in rot.*
 ````
 <h1 style="color: red;">Überschrift</h1>
 ````
-*Eine Überschrift ersten Grades in rot.*
+
 
 
 #### Internal (im Head der HTML-Datei)
