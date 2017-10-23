@@ -211,7 +211,7 @@ Beispiel:
 ````
 <h1 style="color: red;">Überschrift</h1>
 ````
-*Inline-Styles, Überschrift ersten Grades in rot.*
+*Inline-Styles, Überschrift ersten Grades in Rot.*
 
 
 
