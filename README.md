@@ -256,7 +256,7 @@ h1 {
 ````
 Unbedingt auf Leerzeichen achten, und als Klammern kommen hier die geschweiften zum Zuge!! So, CSS-Datei abspeichern und im HTML Editor die Vorschau für die HTML-Datei aufrufen.
 
-Jetzt sollten wir die Überschrift <h1> in roter Schrift auf schwarzem Grund haben.
+Jetzt sollten wir die Überschrift "h1" in roter Schrift auf schwarzem Grund haben.
 
 #### Cascading
 
