@@ -192,13 +192,13 @@ CSS ist eine Stylesheet-Sprache für elektronische Dokumente mit der Gestaltungs
 - [Can i use?](https://caniuse.com/])
 
 ### CSS Einbindung
-Für die Implementierung von CSS gibt es drei Möglichkeiten:
+Es gibt verschiedene Wege CSS zu implementieren:
 
-- Inline Styles
-- Internal Styles
-- External Styles
+- Inline Styles - innerhalb von HTML-Elementen
+- Internal Styles - im Head des HTML-Dokumentes
+- External Styles - ausgelagertes Stylesheet in externer CSS-Datei
 
-#### Inline Styles (innerhalb von HTML-Tags)
+#### Inline Styles
 Inline-Styles sind an ein Element gebunden und können nicht an zentraler Stelle bearbeitet werden. Die Formatdefinition gilt dann nur für den Geltungsbereich des betreffenden HTML-Elements. Innerhalb eines einleitenden HTML-Elements wird das globale Attribut style verwendet. Die Wertzuweisung an das style-Attribut besteht in einer oder mehreren CSS-Formatdefinitionen.
 ````
   <HTML-Tag style="Formatdefinition-01, Formatdefinition-02"></HTML-Tag>
@@ -214,7 +214,7 @@ Beispiel:
 Inline-Styles angewendet auf eine Überschrift ersten Grades in Weiß auf schwarzem Hintergrund.
 
 
-#### Internal Styles (im Head des HTML-Dokumentes)
+#### Internal Styles
 Hier sind die CSS-Anweisungen im Kopfbereich (Head) des HTML-Dokumentes platziert und haben Auswirkungen auf das gesamte HTML-Dokument.
 ````
 <!DOCTYPE html>
@@ -235,7 +235,7 @@ Hier sind die CSS-Anweisungen im Kopfbereich (Head) des HTML-Dokumentes platzier
 Ein Nachteil von internen Stylesheets ist, dass Änderungen nur die Seite selbt beeinflussen, in der die Styles platziert wurden.
 
 
-#### External Styles (ausgelagerte Styles in externer CSS-Datei)
+#### External Styles
 Hier werden die CSS-Anweisungen in einer externen Datei hinterlegt und diese Datei wird dann in jede HTML-Seite eingebunden.
 
 Zum Auslagern werden 2 Dinge benötigt. Als erstes eine neue Datei, ich nenne diese design.css (kann aber auch beliebig anders heißen) und als zweites einen Verweis darauf in der HTML-Datei, die diese ausgelagerte Datei nutzen soll.
