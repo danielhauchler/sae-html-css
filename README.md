@@ -214,7 +214,6 @@ Beispiel:
 *Eine Überschrift ersten Grades in rot.*
 
 
-
 #### Internal (im Head der HTML-Datei)
 Hier sind die CSS-Anweisungen im Kopfbereich (Head) der HTML-Datei platziert. Diese wirken dann auf das ganze HTML-Dokument.
 
