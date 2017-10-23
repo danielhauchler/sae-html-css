@@ -199,7 +199,7 @@ Für die Implementierung von CSS gibt es drei Möglichkeiten:
 - External Styles
 
 #### Inline Styles (innerhalb von HTML-Tags)
-Inline-Styles sind an ein Element gebunden und können nicht an zentraler Stelle bearbeitet werden. Die Formatdefinition gilt dann nur für den Geltungsbereich des betreffenden HTML-Elements. Innerhalb eines einleitenden HTML-Tags wird das globale Attribut style verwendet. Die Wertzuweisung an das style-Attribut besteht in einer oder mehreren CSS-Formatdefinitionen.
+Inline-Styles sind an ein Element gebunden und können nicht an zentraler Stelle bearbeitet werden. Die Formatdefinition gilt dann nur für den Geltungsbereich des betreffenden HTML-Elements. Innerhalb eines einleitenden HTML-Elements wird das globale Attribut style verwendet. Die Wertzuweisung an das style-Attribut besteht in einer oder mehreren CSS-Formatdefinitionen.
 ````
   <HTML-Tag style="Formatdefinition-01, Formatdefinition-02"></HTML-Tag>
 ````
