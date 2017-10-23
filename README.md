@@ -82,7 +82,7 @@ Folgend Online-Dienste zur webbasierten Versionsverwaltung.
 - [GitHub](https://github.com/) (nur kostenfreie "public" Repositorys) 
 - [Bitbucket von Atlassian](https://bitbucket.org/) (kostenfreie "privat" und "public" Repositorys)
 
-Auch Git lässt sich mit Komandozeilen-Befehle über den Terminal steuern. Darüber hinaus gibt es Git Clients wie z.B. [Sourcetree](https://www.sourcetreeapp.com/) oder auch [Tower](https://www.git-tower.com/mac/). Unser Visual Studio Code verfügt bereits auch über einen rudimentären Git Client.
+Auch Git lässt sich [mit Komandozeilen-Befehle über den Terminal](https://rogerdudler.github.io/git-guide/index.de.html) steuern. Darüber hinaus gibt es Git Clients wie z.B. [Sourcetree](https://www.sourcetreeapp.com/) oder auch [Tower](https://www.git-tower.com/mac/). Unser Visual Studio Code verfügt bereits auch über einen rudimentären Git Client.
 
 ![VSC Git Client](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/vsc-git-client.png)
 
