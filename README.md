@@ -248,12 +248,12 @@ Dieser Verweis sollte im head-Bereich eingegeben werden.
 Nun erstellen wir eine neue Datei mit dem Namen „design.css“, die im selben Verzeichnis wie die HTML-Datei liegen muss!
 
 Inhalt:
-
+````
 h1 {
     color: white;
     background-color: black;
 }
-
+````
 Unbedingt auf Leerzeichen achten, und als Klammern kommen hier die geschweiften zum Zuge!! So, CSS-Datei abspeichern und im HTML Editor die Vorschau für die HTML-Datei aufrufen.
 
 Jetzt sollten wir die Überschrift <h1> in roter Schrift auf schwarzem Grund haben.
