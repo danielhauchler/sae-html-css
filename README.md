@@ -209,30 +209,30 @@ Grundsätzlich solltest du die Verwendung von „Inline-Styles“ meiden, da du 
 
 Beispiel:
 ````
-<h1 style="color: red;">Überschrift</h1>
+<h1 style="color: white;background-color: black;">Überschrift</h1>
 ````
-*Inline-Styles, Überschrift ersten Grades in Rot.*
+*Inline-Styles, Überschrift ersten Grades in Weiß auf schwarzem Hintergrund.*
 
 
 
-#### Internal (im Head der HTML-Datei)
+#### Internal (im Head des HTML-Dokuments)
 Hier sind die CSS-Anweisungen im Kopfbereich (Head) der HTML-Datei platziert. Diese wirken dann auf das ganze HTML-Dokument.
-
+````
 <!DOCTYPE html>
 <html lang="de">
 <head>
 <style>
-h1 {
-    color: red;
-    background-color: black;
-}
+  h1 {
+      color: white;
+      background-color: black;
+  }
 </style>
 </head>
 <body>
-<h1>jetzt HTML lernen mit CSS</h1>
+  <h1>CSS Inline-Styles</h1>
 </body>
 </html>
-
+````
 
 #### External (ausgelagert in extra CSS-Datei)
 Hier werden die CSS-Anweisungen in einer externen Datei hinterlegt und diese Datei wird dann in jede HTML-Seite eingebunden.
