@@ -96,7 +96,7 @@ Webbrowser stellen die Benutzeroberfläche für Webanwendungen dar und sind Comp
 
 Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser.](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
 
-Keep calm and [browse happy!](https://browsehappy.com/)
+Keep calm and [browse happy!](https://browsehappy.com/) ;)
 
 <br>
 
