@@ -80,7 +80,7 @@ Folgend Online-Dienste zur webbasierter Versionsverwaltung.
 - [GitHub](https://github.com/) (nur kostenfreie "public" Repositorys) 
 - [Bitbucket von Atlassian](https://bitbucket.org/) (kostenfreie "privat" und "public" Repositorys)
 
-Im übrigen befindest Du dich gerade in einem meiner Ropositorys auf [Github](https://github.com/). Hier aktualisiere, versioniere und teile ich den aktuellen Stand unseres Quellcodes aus den Sessions, sowie diese Doku.
+> Im übrigen befindest Du dich gerade in einem meiner Ropositorys auf [Github](https://github.com/). Hier aktualisiere, versioniere und teile ich den aktuellen Stand unseres Quellcodes aus den Sessions, sowie diese Doku.
 
 <br>
 
