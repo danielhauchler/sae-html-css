@@ -86,7 +86,7 @@ Im übrigen befindest Du dich gerade in einem meiner Ropositorys auf [Github](ht
 
 ### Webbrowser
 
-Webbrowser stellen die Benutzeroberfläche für Webanwendungen dar. Ein Computerprogramm zur Visualisierung von Webseiten im World Wide Web basierend auf HTML Dokumenten, Vektor Grafiken, Bildern und PDF-Dokumenten durch Zuhilfenahme von [Cascading Stylesheets](#03---css-cascading-style-sheets). [Browse Happy!](https://browsehappy.com/)
+Webbrowser stellen die Benutzeroberfläche für Webanwendungen dar. Ein Computerprogramm zur Visualisierung von Webseiten im World Wide Web basierend auf HTML Dokumenten, Vektor Grafiken, Bildern und PDF-Dokumenten durch Zuhilfenahme von [Cascading Stylesheets](#03---css-cascading-style-sheets).
 
 - [Google Chrome](https://www.google.de/chrome/browser/desktop/index.html) (WebKit / V8)
 - [Mozilla Firefox](https://www.mozilla.org/de/firefox/) (Gecko)
@@ -95,6 +95,8 @@ Webbrowser stellen die Benutzeroberfläche für Webanwendungen dar. Ein Computer
 - [Opera](http://www.opera.com/de/download) (Presto)
 
 Funktionsweisen von Browsern: [Hinter den Kulissen moderner Web-Browser.](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
+
+Keep calm and [browse happy!](https://browsehappy.com/)
 
 <br>
 
