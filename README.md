@@ -162,8 +162,7 @@ Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument.
 __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-html/01_doctype/index.html)*__
 
 ### HEAD
-Das Head Element ist ein Container für Metadaten. Metadaten beinhalten Informationen über das HTML Dokument wie z.B. 'character sets', 'styles', 'links', 'scripts'...
-
+Das head-Element ist ein Container für alle Kopfelemente und kann einen Titel für das Dokument, Skripte, Stile, Metainformationen enthalten.
 - [HTML Elemente für den Head.](https://github.com/danielhauchler/HEAD)
 
 ````
@@ -185,7 +184,7 @@ __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-ht
 ```
 
 ### BODY
-Der Body definiert Inhalte von HTML Dokumenten wie Überschriften, Text, Hyperlinks, Bilder, Listen und Tabellen.
+Das body-Element definiert den Dokumenten-Körper und enthält alle Inhalte eines HTML-Dokuments wie Text, Hyperlinks, Bilder, Tabellen, Listen usw.
 - [HTML5 Elemente](https://www.w3schools.com/tags/ref_byfunc.asp)
 
 ````
