@@ -211,7 +211,7 @@ Beispiel:
 ````
 <h1 style="color:white;background-color:black">Eine Überschrift</h1>
 ````
-*Inline-Styles, Überschrift ersten Grades in Weiß auf schwarzem Hintergrund.*
+*Inline-Styles angewendet auf eine Überschrift ersten Grades in Weiß auf schwarzem Hintergrund.*
 
 
 #### Internal (im Head des HTML-Dokuments)
