@@ -191,8 +191,8 @@ CSS ist eine Stylesheet-Sprache für elektronische Dokumente mit der Gestaltungs
 
 - [Can i use?](https://caniuse.com/])
 
-### CSS Implementierung
-Für die Einbindung von CSS gibt es drei Möglichkeiten:
+### CSS Einbindung
+Für die Implementierung von CSS gibt es drei Möglichkeiten:
 
 - Inline Styles
 - Internal Styles
