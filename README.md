@@ -189,9 +189,6 @@ __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-ht
 ## 03 - CSS (Cascading Style Sheets)
 CSS ist eine Stylesheet-Sprache für elektronische Dokumente mit der Gestaltungsanweisungen erstellt werden.
 
-![Stylesheet Cascading](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/cascading.svg)
-
-
 - [Can i use?](https://caniuse.com/])
 
 ### CSS Einbindung
@@ -200,6 +197,8 @@ Für die Implementierung von CSS gibt es drei Möglichkeiten:
 - Inline Styles
 - Internal Styles
 - External Styles
+
+![Stylesheet Cascading](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/cascading.svg)
 
 #### Inline Styles (innerhalb von HTML-Tags)
 Inline-Styles sind an ein Element gebunden und können nicht an zentraler Stelle bearbeitet werden. Die Formatdefinition gilt dann nur für den Geltungsbereich des betreffenden HTML-Elements. Innerhalb eines einleitenden HTML-Tags wird das globale Attribut style verwendet. Die Wertzuweisung an das style-Attribut besteht in einer oder mehreren CSS-Formatdefinitionen.
