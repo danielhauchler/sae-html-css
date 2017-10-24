@@ -166,7 +166,7 @@ index.html
 Eine gewöhnliche HTML-Datei besteht grundsätzlich aus folgenden Bestandteilen:
 - Dokumententyp-Deklaration (!DOCTYPE html)
 - head (unsichtbarer Kopfdaten. z.B. Angaben zu Seitentitel)
-- body (Körper – anzuzeigender Inhalt, also Text mit Überschriften, Verweisen, Grafikreferenzen usw.)
+- body (Körper mit anzuzeigendem Inhalt, also Texte, Überschriften, Verweise, Grafikreferenzen usw.)
 
 ````
 <!DOCTYPE html>
