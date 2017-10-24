@@ -153,7 +153,7 @@ Das World Wide Web Consortium ist ein Gremium zur Standardisierung von Techniken
 - [World Wide Web Consortium (W3C)](https://www.w3.org/)
 - [World Wide Web Consortium (W3Schools)](https://www.w3schools.com/)
 
-Das W3C stellt einen Markup Validator zur Überprüfung von Markup-Gültigkeit von Web-Dokumenten in HTML, XHTML, SMIL, MathML usw. zur Verfügung. 
+Das W3C stellt einen Markup Validator zur Überprüfung von Markup-Gültigkeit von Web-Dokumenten in HTML, XHTML, SMIL, MathML usw. zur Verfügung. Wenn ihr also euer erzeugtes Markup auf Gültigkeit überprüfen wollt, könnt ihr folgenden Validator nutzen:
 - [W3C Validator](https://validator.w3.org/)
 
 ### DOCTYPE
