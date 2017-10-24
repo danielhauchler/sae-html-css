@@ -128,12 +128,12 @@ cmd + shift + I
 
 ### Document Object Model
 
+Dokumenten-Objekt-Modell ist eine Spezifikation, welche HTML- oder XML-Dokumente als eine Baumstruktur darstellt, in der jeder Knoten ein Objekt ist, welches einen Teil des Dokumentes repräsentiert, z.B. einen Absatz, eine Überschrift, ein Video oder etwa eine Tabellenzelle.
 - HTML Elemente bilden eine Baumstruktur, auch DOM (Dokumenten-Objekt-Modell) gegannt
 - DOM-Elemente bildet Knoten, jeder Knoten bildet ein Objekt
 - Objekte repräsentieren Teile des Dokumentes
 - Browser nutzen das DOM um Inhalte zu rendern
 
-Dokumenten-Objekt-Modell ist eine Spezifikation, welche HTML- oder XML-Dokumente als eine Baumstruktur darstellt, in der jeder Knoten ein Objekt ist, welches einen Teil des Dokumentes repräsentiert, z.B. einen Absatz, eine Überschrift, ein Video oder etwa eine Tabellenzelle.
 
 ![DOM-Knoten](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/dom-knoten.png)
 
