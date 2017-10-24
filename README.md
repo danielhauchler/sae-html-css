@@ -17,12 +17,12 @@
 **Sitemap**
 
 - [01 - Entwicklungsumgebung](01-ide#01---entwicklungsumgebung)
-  - [IDEs (Integrated Development Enviroment)](#ides-integrated-development-environments)
-  - [Terminal (Command Line Interface)](#terminal-command-line-interface)
-  - [Git](#git)
-  - [Webbrowser](#webbrowser)
-  - [Dev Tools](#dev-tools)
-  - [W3C](#w3c)
+  - [IDEs (Integrated Development Enviroment)](01-ide#ides-integrated-development-environments)
+  - [Terminal (Command Line Interface)](01-ide#terminal-command-line-interface)
+  - [Git](01-ide#git)
+  - [Webbrowser](01-ide#webbrowser)
+  - [Dev Tools](01-ide#dev-tools)
+  - [W3C](01-ide#w3c)
 
 - [02 - HTML (Hypertext Markup Language)](#02---html-hypertext-markup-language)
 
