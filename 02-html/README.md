@@ -67,15 +67,15 @@ __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-ht
     <!-- Page-Title, fokus auf ein Hauptkeyword -->
     <title>Document</title>
 
-    <!-- Beschreibung der Seite mit 156 Zeichen inkl. Spaces und Verwendung des Hauptkeywords der Seite -->
-    <meta name="description" content="A description of the page">
+    <!-- Beschreibung der Seite mit Verwendung des Hauptkeywords -->
+    <meta name="description" content="A description of the page content less than 156 characters">
 
     <!-- Facebook -->
     <meta property="fb:app_id" content="123456789">
-    <meta property="og:url" content="https://www.volvocars.com/de">
+    <meta property="og:url" content="https://www.start-coding.de">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Volvocars XY">
-    <meta property="og:image" content="https://www.volvocars.com/de/image.jpg">
+    <meta property="og:image" content="https://www.start-coding.de/de/image.jpg">
     <meta property="og:description" content="Description Here">
     <meta property="og:site_name" content="Site Name">
     <meta property="og:locale" content="de_DE">
@@ -85,16 +85,16 @@ __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-ht
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@site_account">
     <meta name="twitter:creator" content="@individual_account">
-    <meta name="twitter:url" content="https://example.com/page.html">
+    <meta name="twitter:url" content="https://www.start-coding.de/page.html">
     <meta name="twitter:title" content="Content Title">
     <meta name="twitter:description" content="Content description less than 200 characters">
-    <meta name="twitter:image" content="https://example.com/image.jpg">
+    <meta name="twitter:image" content="https://www.start-coding.de/image.jpg">
 
     <!-- Google+ -->
-    <link href="https://plus.google.com/+VolvoCars" rel="publisher">
-    <meta itemprop="name" content="Volvo Cars">
+    <link href="https://plus.google.com/+StartCoding" rel="publisher">
+    <meta itemprop="name" content="Staret Coding">
     <meta itemprop="description" content="Content description less than 200 characters">
-    <meta itemprop="image" content="https://www.volvocars.com/de/image.jpg">
+    <meta itemprop="image" content="https://www.start-coding.de/image.jpg">
 ````
 Weitere html-Elemente zur Auszeichnung von Metainformationen im head findet ihr unter [HTML Elemente für den Head](https://github.com/danielhauchler/HEAD).
 
