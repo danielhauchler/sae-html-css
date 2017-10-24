@@ -26,7 +26,7 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, welches den H
 
 ### Terminal (Command Line Interface)
 
-Der Terminal, auch als Kommandozeile oder "Command Line" bezeichnet, liefert uns eine Befehlszeilenschnittstelle und textbasierten Zugriff auf unser Betriebssystem.
+Der Terminal, auch als Kommandozeile oder "Command Line Interface" bezeichnet, liefert uns eine Befehlszeilenschnittstelle und textbasierten Zugriff auf unser Betriebssystem.
 ![Terminal](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/terminal.png)
 
 Grundlegende Betriebssystem basierte Kommandozeilen-Befehle:
