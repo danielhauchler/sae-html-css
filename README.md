@@ -12,10 +12,21 @@
 
 > **25.10.** // Chrome DevTools, HTML, CSS
 
-<!-- <br>
+<br>
 
 **Sitemap**
 
+- 01 - Entwicklungsumgebung
+  - IDEs (Integrated Development Enviroment)
+  - Terminal (Command Line Interface)
+  - Git
+  - Webbrowser
+  - Dev Tools
+  - W3C
+
+- 02 - HTML (Hypertext Markup Language)
+
+<!--
 ## 01 - Entwicklungsumgebung
 ### IDEs (Integrated Development Environments)
 ### Terminal (Command Line Interface)
