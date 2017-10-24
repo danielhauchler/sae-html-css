@@ -183,7 +183,7 @@ Eine gewöhnliche HTML-Datei besteht grundsätzlich aus folgenden Bestandteilen:
 __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-html/01-doctype/index.html)*__
 
 ### HEAD
-Das head-Element ist ein Container für alle Kopfelemente und kann einen Titel für das Dokument, Skripte, Stile, Metainformationen enthalten.
+Das head-Element ist ein Container für alle Kopfelemente und kann einen Titel für das Dokument, Skripte, Stile, Metainformationen enthalten. Weitere html-Elemente zur Auszeichnung von Metainformationen im head findet ihr hier:
 - [HTML Elemente für den Head.](https://github.com/danielhauchler/HEAD)
 
 ````
