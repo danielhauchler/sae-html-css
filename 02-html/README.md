@@ -65,7 +65,7 @@ __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-ht
 
 ````
     <!-- Page-Title, fokus auf ein Hauptkeyword -->
-    <title>Document</title>
+    <title>Page Title</title>
 
     <!-- Beschreibung der Seite mit Verwendung des Hauptkeywords -->
     <meta name="description" content="A description of the page content less than 156 characters">
@@ -74,7 +74,7 @@ __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-ht
     <meta property="fb:app_id" content="123456789">
     <meta property="og:url" content="https://www.start-coding.de">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Volvocars XY">
+    <meta property="og:title" content="Start Coding">
     <meta property="og:image" content="https://www.start-coding.de/de/image.jpg">
     <meta property="og:description" content="Description Here">
     <meta property="og:site_name" content="Site Name">
