@@ -230,7 +230,7 @@ Der Selektor zeigt auf das HTML-Element, das Du formatieren möchten. Der Deklar
 ### CSS Einbindung
 Es gibt verschiedene Wege CSS zu implementieren:
 
-- **Inline Styles** - innerhalb von HTML-Elementen
+- **Inline Styles** - innerhalb von HTML-Elementen (abweichende Formatierung!)
 - **Internal Styles** - im Head des HTML-Dokumentes
 - **External Styles** - ausgelagertes Stylesheet in externer CSS-Datei
 
