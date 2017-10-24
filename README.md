@@ -121,6 +121,20 @@ cmd + shift + I
 
 <br>
 
+### W3C
+
+[Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/) ist Wegbereiter des World Wide Webs und zudem Gründer und Vorsitzender des World Wide Web Consortiums ([W3C](https://www.w3.org/)).
+
+Das World Wide Web Consortium ist ein Gremium zur Standardisierung von Techniken im World Wide Web. Es entwickelt technische Spezifikationen und Richtlinien in einem ausgereiften, transparenten Prozess, um maximalen Konsens über den Inhalt technischer Protokolle, sowie eine hohe technische und redaktionelle Qualität zu erzielen.
+
+- [World Wide Web Consortium (W3C)](https://www.w3.org/)
+- [World Wide Web Consortium (W3Schools)](https://www.w3schools.com/)
+
+Das W3C stellt einen Markup Validator zur Überprüfung von Markup-Gültigkeit von Web-Dokumenten in HTML, XHTML, SMIL, MathML usw. zur Verfügung. Wenn ihr also euer erzeugtes Markup auf Gültigkeit überprüfen wollt, könnt ihr folgenden Validator nutzen:
+- [W3C Validator](https://validator.w3.org/)
+
+<br>
+
 ## 02 - HTML (Hypertext Markup Language)
 
 - HTML beschreibt die semantische Dokumentenstruktur von Web Applikationen
@@ -144,17 +158,6 @@ Die vorliegende Struktur wird im Objektmodell durch die folgenden Beziehungen ch
 - Der html-Elementknoten ist umgekehrt ein Elternteil (parent) von head und body.
 - Knoten mit gemeinsamem Elternteil (zum Beispiel die Elementknoten head und body) werden Geschwister (siblings) genannt.
 
-#### W3C
-
-[Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/) ist Wegbereiter des World Wide Webs und zudem Gründer und Vorsitzender des World Wide Web Consortiums ([W3C](https://www.w3.org/)).
-
-Das World Wide Web Consortium ist ein Gremium zur Standardisierung von Techniken im World Wide Web. Es entwickelt technische Spezifikationen und Richtlinien in einem ausgereiften, transparenten Prozess, um maximalen Konsens über den Inhalt technischer Protokolle, sowie eine hohe technische und redaktionelle Qualität zu erzielen.
-
-- [World Wide Web Consortium (W3C)](https://www.w3.org/)
-- [World Wide Web Consortium (W3Schools)](https://www.w3schools.com/)
-
-Das W3C stellt einen Markup Validator zur Überprüfung von Markup-Gültigkeit von Web-Dokumenten in HTML, XHTML, SMIL, MathML usw. zur Verfügung. Wenn ihr also euer erzeugtes Markup auf Gültigkeit überprüfen wollt, könnt ihr folgenden Validator nutzen:
-- [W3C Validator](https://validator.w3.org/)
 
 ### DOCTYPE
 
@@ -295,19 +298,22 @@ Einbindung im Head des HTML-Dokumentes:
 </html>
 ````
 
-CSS ist nicht auf eine externe CSS-Datei beschränkt. Mit HTML link-Tags und der import-Regel können beliebig viele externe CSS-Dateien eingebunden werden.
+CSS ist nicht auf eine externe CSS-Datei beschränkt. Mit HTML link-Tags und der import-Regel können beliebig viele externe CSS-Dateien eingebunden werden. Grundsätzlich ist es besser, nicht zu viele CSS-Dateien anzulegen, da jede CSS-Datei mit einem HTTP-Request geladen wird und dies zusätzliche Ladezeit kostet. Damit eine große CSS-Datei übersichtlich bliebt, hilft strikte Organisation, eine saubere Struktur und die Verwendung von CSS Präprozessoren wie Sass oder Less und/oder ganze Task Runner wie [Webpack](https://webpack.js.org/), [Gulp](https://gulpjs.com/) und [Grunt](https://gruntjs.com/).
 
-Grundsätzlich ist es besser, nicht zu viele CSS-Dateien anzulegen. Jede CSS-Datei wird mit einem HTTP-Request geladen – das kostet vor allem bei den mobilen Geräte zusätzliche Ladezeit für die CSS-Dateien.
-
-Damit eine große CSS-Datei übersichtlich bliebt, helfen ein CSS-Reset, eine strikte Organisation und eine saubere Struktur.
-
-#### Cascading
+### Cascading
 Wenn CSS-Stile in Konflikt geraten, weil sie extern in der CSS-Datei, im style-Tag, in einer inline-Regel und im Stylesheet des Benutzers unterschiedlich deklariert sind, löst die Kaskade den Konflikt. Die Regel, die dem Element am nächsten liegt, hat die höhere Priorität.
 
 - Eine CSS-Eigenschaft überschreibt die vom Browser vorgegebene Eigenschaft.
 - Führen CSS-Stile zu Konflikten innerhalb des globalen Stylesheets, übertrumpft die zuletzt im globalen Stylesheet aufgeführt Anweisung.
 
 ![Stylesheet Cascading](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/cascading.png)
+
+
+
+
+
+
+
 
 ### Box Model
 ### CSS3
