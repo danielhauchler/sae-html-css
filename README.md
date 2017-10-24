@@ -77,7 +77,7 @@ Im übrigen befindest Du dich gerade auch in einem meiner Ropositorys auf [Githu
 Für die Nutzung muss folgende Software auf eurem Betriebssystem installiert sein:
 - [Git](https://git-scm.com/), Download unter [https://git-scm.com/downloads](https://git-scm.com/download/mac).
 
-Folgend Online-Dienste zur webbasierten Versionsverwaltung.
+Folgende Online-Dienste bieten sich zur webbasierten Versionsverwaltung an:
 
 - [GitHub](https://github.com/) (nur kostenfreie "public" Repositorys) 
 - [Bitbucket von Atlassian](https://bitbucket.org/) (kostenfreie "privat" und "public" Repositorys)
