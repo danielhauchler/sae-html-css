@@ -96,7 +96,7 @@ __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-ht
     <meta itemprop="description" content="Content description less than 200 characters">
     <meta itemprop="image" content="https://www.start-coding.de/image.jpg">
 ````
-Weitere html-Elemente zur Auszeichnung von Metainformationen im head findet ihr unter [HTML Elemente für den Head](https://github.com/danielhauchler/HEAD).
+Weitere Metainformationen für den head findet ihr unter [HTML Elemente für den Head](https://github.com/danielhauchler/HEAD).
 
 ##### Unicodes and Character Sets
 ```
