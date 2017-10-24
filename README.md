@@ -204,18 +204,13 @@ Weitere html-Elemente zur Auszeichnung von Metainformationen im head findet ihr 
 - [About unicodes and character sets.](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 ### BODY
-Das body-Element definiert den Dokumenten-Körper und enthält alle Inhalte eines HTML-Dokuments wie Text, Hyperlinks, Bilder, Tabellen, Listen usw.
+Das body-Element definiert den Dokumenten-Körper und enthält alle Inhalte eines HTML-Dokumentes wie Text, Hyperlinks, Bilder, Tabellen, Listen usw.
 - [HTML5 Elemente](https://www.w3schools.com/tags/ref_byfunc.asp)
 
 ````
 <body>
   <h1></h1>
   <p></p>
-  <a href=""></a>      
-  <img src="" title="">
-  <div>
-    <div></div>
-  </div>
 </body>
 ````
 
