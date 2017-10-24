@@ -180,7 +180,7 @@ Eine gewöhnliche HTML-Datei besteht grundsätzlich aus folgenden Bestandteilen:
 </html>
 ````
 
-__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-html/01_doctype/index.html)*__
+__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-html/01-doctype/index.html)*__
 
 ### HEAD
 Das head-Element ist ein Container für alle Kopfelemente und kann einen Titel für das Dokument, Skripte, Stile, Metainformationen enthalten.
@@ -193,7 +193,7 @@ Das head-Element ist ein Container für alle Kopfelemente und kann einen Titel f
   <meta name="description" content="Die einzigartige Beschreibung">
 </head>
 ````
-__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-html/02_html-head/index.html)*__
+__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-html/02-html-head/index.html)*__
 
 ##### Unicodes and Character Sets
 [Unicode](https://wiki.selfhtml.org/wiki/Referenz:HTML/Zeichenreferenz) ist ein internationaler Standard, in dem langfristig für jedes Sinn tragende Schriftzeichen oder Textelement aller bekannten Schriftkulturen und Zeichensysteme ein digitaler Code festgelegt wird. [Character Sets](https://www.w3schools.com/tags/ref_charactersets.asp) (Zeichenkodierungen) erlauben die eindeutige Zuordnung von Schriftzeichen und Symbolen innerhalb eines Zeichensatzes.
@@ -220,7 +220,7 @@ Das body-Element definiert den Dokumenten-Körper und enthält alle Inhalte eine
 </body>
 ````
 
-__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-html/03_html-body/index.html)*__
+__*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-html/03-html-body/index.html)*__
 
 <br>
 
