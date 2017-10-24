@@ -224,10 +224,10 @@ __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-ht
 
 <br>
 
-## 03 - CSS (Cascading Style Sheets)
-CSS ist eine Stylesheet-Sprache für elektronische Dokumente mit der Gestaltungsanweisungen erstellt werden.
+## 03 - Cascading Style Sheets
+Cascading Style Sheets (gestufte Gestaltungsbögen), kurz CSS genannt ist eine Stylesheet-Sprache für elektronische Dokumente mit der Gestaltungsanweisungen erstellt werden, die zusammen mit den Auszeichnungssprachen HTML, dem DOM und XML eingesetzt werden. Sie ist ein so genannter „living standard“ und wird vom World Wide Web Consortium (W3C) stetig weiterentwickelt. CSS wurde entworfen, um Darstellungen weitestgehend von inhaltlicher Semantik zu trennen.
 
-- [Can i use?](https://caniuse.com/])
+Ob und in welchen Browser Versionen welche CSS Properties implementiert sind könnt ihr unter [https://caniuse.com/](https://caniuse.com/]) prüfen.
 
 ### CSS Einbindung
 Es gibt verschiedene Wege CSS zu implementieren:
