@@ -90,7 +90,7 @@ Auch Git lässt sich mit [Komandozeilen-Befehle über den Terminal](https://roge
 
 ### Webbrowser
 
-Webbrowser stellen die Benutzeroberfläche für Webanwendungen dar und sind Computerprogramm zur Visualisierung von Webseiten im World Wide Web basierend auf HTML Dokumenten, Vektor Grafiken, Bildern und PDF-Dokumenten durch Zuhilfenahme von [Cascading Stylesheets](#03---css-cascading-style-sheets) und Javascript.
+Webbrowser stellen die Benutzeroberfläche für Webanwendungen dar und sind Computerprogramme zur Visualisierung von Webseiten im World Wide Web basierend auf HTML Dokumenten, Vektor Grafiken, Bildern und PDF-Dokumenten durch Zuhilfenahme von [Cascading Stylesheets](#03---css-cascading-style-sheets) und Javascript.
 
 - [Google Chrome](https://www.google.de/chrome/browser/desktop/index.html) (WebKit / V8)
 - [Mozilla Firefox](https://www.mozilla.org/de/firefox/) (Gecko)
@@ -126,11 +126,12 @@ cmd + shift + I
 - HTML beschreibt die semantische Dokumentenstruktur von Web Applikationen
 - HTML Tags repräsentieren HTML Elemente
 - HTML Elemente bilden eine Baumstruktur, auch DOM (Dokumenten-Objekt-Modell) gegannt
+
+### Document Object Model
+
 - DOM-Elemente bildet Knoten, jeder Knoten bildet ein Objekt
 - Objekte repräsentieren Teile des Dokumentes
 - Browser nutzen das DOM um Inhalte zu rendern
-
-### Document Object Model
 
 Dokumenten-Objekt-Modell ist eine Spezifikation, welche HTML- oder XML-Dokumente als eine Baumstruktur darstellt, in der jeder Knoten ein Objekt ist, welches einen Teil des Dokumentes repräsentiert, z.B. einen Absatz, eine Überschrift, ein Video oder etwa eine Tabellenzelle.
 
