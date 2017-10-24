@@ -1,4 +1,4 @@
-![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/start-coding-banner.jpg)
+![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/assets/media/images/readme/start-coding-banner.jpg)
 
 ## 02 - HTML (Hypertext Markup Language)
 
@@ -15,7 +15,7 @@ Das Dokumenten-Objekt-Modell ist eine Spezifikation, welche HTML- oder XML-Dokum
 
 An diesem Beispiel lässt sich der prinzipielle Aufbau des Objektmodells diskutieren: Dokumente werden logisch wie ein Stammbaum dargestellt. Knoten (nodes) stehen über „Verwandtschaftsbeziehungen“ zueinander in Verbindung.
 
-![DOM-Knoten](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/dom-knoten.png)
+![DOM-Knoten](https://raw.githubusercontent.com/danielhauchler/start-coding/master/assets/media/images/readme/dom-knoten.png)
 
 Die vorliegende Struktur wird im Objektmodell durch die folgenden Beziehungen charakterisiert:
 

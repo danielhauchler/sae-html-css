@@ -1,4 +1,4 @@
-![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/start-coding-banner.jpg)
+![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/assets/media/images/readme/start-coding-banner.jpg)
 
 ## 03 - Cascading Style Sheets
 Cascading Style Sheets (gestufte Gestaltungsbögen), kurz CSS genannt ist eine Stylesheet-Sprache für elektronische Dokumente mit der Gestaltungsanweisungen erstellt werden, die zusammen mit den Auszeichnungssprachen HTML, dem DOM und XML eingesetzt werden. Sie ist ein so genannter „living standard“ und wird vom World Wide Web Consortium (W3C) stetig weiterentwickelt. CSS wurde entworfen, um Darstellungen weitestgehend von inhaltlicher Semantik zu trennen. Ob und in welchen Browserversionen welche CSS Properties implementiert sind könnt ihr unter [https://caniuse.com/](https://caniuse.com/]) prüfen.
@@ -7,7 +7,7 @@ Ein CSS-Regel-Set besteht aus einem Selektor und einem Deklarationsblock mit CSS
 
 Der Selektor zeigt auf das HTML-Element, das Du formatieren möchten. Der Deklarationsblock enthält eine oder mehrere Deklarationen, die durch Semikolons voneinander getrennt werden. Jede Deklaration enthält einen CSS-Eigenschaftsnamen und einen durch einen Doppelpunkt getrennten Wert. Eine CSS-Deklaration endet immer mit einem Semikolon, und Deklarationsblöcke werden von geschweiften Klammern umgeben.
 
-![CSS Selektoren und Eigenschaften](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/css.png)
+![CSS Selektoren und Eigenschaften](https://raw.githubusercontent.com/danielhauchler/start-coding/master/assets/media/images/readme/css.png)
 
 ### CSS Einbindung
 Es gibt verschiedene Wege CSS zu implementieren:
@@ -85,7 +85,7 @@ Wenn CSS-Stile in Konflikt geraten, weil sie extern in der CSS-Datei, im style-T
 - Eine CSS-Eigenschaft überschreibt die vom Browser vorgegebene Eigenschaft.
 - Führen CSS-Stile zu Konflikten innerhalb des globalen Stylesheets, übertrumpft die zuletzt im globalen Stylesheet aufgeführt Anweisung.
 
-![Stylesheet Cascading](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/cascading.png)
+![Stylesheet Cascading](https://raw.githubusercontent.com/danielhauchler/start-coding/master/assets/media/images/readme/cascading.png)
 
 
 
