@@ -148,10 +148,13 @@ Die vorliegende Struktur wird im Objektmodell durch die folgenden Beziehungen ch
 
 [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/) ist Wegbereiter des World Wide Webs und zudem Gründer und Vorsitzender des World Wide Web Consortiums ([W3C](https://www.w3.org/)).
 
-Das World Wide Web Consortium ist das Gremium zur Standardisierung von Techniken im World Wide Web.
+Das World Wide Web Consortium ist ein Gremium zur Standardisierung von Techniken im World Wide Web. Es entwickelt technische Spezifikationen und Richtlinien in einem ausgereiften, transparenten Prozess, um maximalen Konsens über den Inhalt technischer Protokolle, hohe technische und redaktionelle Qualität zu erzielen.
 
 - [World Wide Web Consortium (W3C)](https://www.w3.org/)
 - [World Wide Web Consortium (W3Schools)](https://www.w3schools.com/)
+
+Das W3C stellt einen Markup Validator zur Überprüfung von Markup-Gültigkeit von Web-Dokumenten in HTML, XHTML, SMIL, MathML usw. zur Verfügung. 
+- [W3C Validator](https://validator.w3.org/)
 
 ### DOCTYPE
 
