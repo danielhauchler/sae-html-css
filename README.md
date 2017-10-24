@@ -223,6 +223,12 @@ Cascading Style Sheets (gestufte Gestaltungsbögen), kurz CSS genannt ist eine S
 
 Ob und in welchen Browserversionen welche CSS Properties implementiert sind könnt ihr unter [https://caniuse.com/](https://caniuse.com/]) prüfen.
 
+Ein CSS-Regel-Set besteht aus einem Selektor und einem Deklarationsblock mit CSS Eigenschaften und Werten.
+
+Der Selektor zeigt auf das HTML-Element, das Du formatieren möchten. Der Deklarationsblock enthält eine oder mehrere Deklarationen, die durch Semikolons voneinander getrennt werden. Jede Deklaration enthält einen CSS-Eigenschaftsnamen und einen durch einen Doppelpunkt getrennten Wert. Eine CSS-Deklaration endet immer mit einem Semikolon, und Deklarationsblöcke werden von geschweiften Klammern umgeben.
+
+![CSS Selektoren und Eigenschaften](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/css.png)
+
 ### CSS Einbindung
 Es gibt verschiedene Wege CSS zu implementieren:
 
