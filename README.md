@@ -132,11 +132,16 @@ cmd + shift + I
 
 ### Document Object Model
 
-Dokumenten-Objekt-Modell ist eine Spezifikation, welche HTML- oder XML-Dokumente als eine Baumstruktur darstellt, in der jeder Knoten ein Objekt ist, welches einen Teil des Dokumentes repräsentiert, z.B. einen Absatz, eine Überschrift, ein Video oder etwa eine Tabellenzelle.
-
-
+Dokumenten-Objekt-Modell ist eine Spezifikation, welche HTML- oder XML-Dokumente als eine Baumstruktur darstellt, in der jeder Knoten ein Objekt ist, welches einen Teil des Dokumentes repräsentiert, z.B. einen Absatz, eine Überschrift, ein Video oder etwa eine Tabellenzelle. Es definiert die logische Struktur von Dokumenten und die Art und Weise, wie auf ein Dokument zugegriffen und manipuliert wird.
 
 ![DOM-Knoten](https://raw.githubusercontent.com/danielhauchler/start-coding/master/_assets/media/images/readme/dom-knoten.png)
+
+An diesem Beispiel lässt sich der prinzipielle Aufbau des Objektmodells diskutieren: Dokumente werden logisch wie ein Stammbaum dargestellt. Knoten (nodes) stehen über „Verwandtschaftsbeziehungen“ zueinander in Verbindung.
+Die vorliegende Struktur wird im Objektmodell durch die folgenden Beziehungen charakterisiert:
+
+- Der Wurzelknoten (root) ist ein html-Tag und hat als Kinder (children) die Elementknoten head und body.
+- Der html-Elementknoten ist umgekehrt ein Elternteil (parent) von head und body.
+- Knoten mit gemeinsamem Elternteil (zum Beispiel die Elementknoten h1 und p) werden Geschwister (siblings) genannt.
 
 [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/), Wegbereiter des World Wide Webs und Director des World Wide Web Consortiums ([W3C](https://www.w3.org/)).
 
