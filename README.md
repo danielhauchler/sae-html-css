@@ -148,7 +148,7 @@ Die vorliegende Struktur wird im Objektmodell durch die folgenden Beziehungen ch
 
 [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/) ist Wegbereiter des World Wide Webs und zudem Gründer und Vorsitzender des World Wide Web Consortiums ([W3C](https://www.w3.org/)).
 
-Das World Wide Web Consortium ist ein Gremium zur Standardisierung von Techniken im World Wide Web. Es entwickelt technische Spezifikationen und Richtlinien in einem ausgereiften, transparenten Prozess, um maximalen Konsens über den Inhalt technischer Protokolle, hohe technische und redaktionelle Qualität zu erzielen.
+Das World Wide Web Consortium ist ein Gremium zur Standardisierung von Techniken im World Wide Web. Es entwickelt technische Spezifikationen und Richtlinien in einem ausgereiften, transparenten Prozess, um maximalen Konsens über den Inhalt technischer Protokolle, sowie eine hohe technische und redaktionelle Qualität zu erzielen.
 
 - [World Wide Web Consortium (W3C)](https://www.w3.org/)
 - [World Wide Web Consortium (W3Schools)](https://www.w3schools.com/)
@@ -166,7 +166,7 @@ index.html
 Eine gewöhnliche HTML-Datei besteht grundsätzlich aus folgenden Bestandteilen:
 - Dokumententyp-Deklaration (!DOCTYPE html)
 - head (unsichtbarer Kopfdaten. z.B. Angaben zu Seitentitel)
-- body (Körper mit anzuzeigendem Inhalt, also Texte, Überschriften, Verweise, Grafikreferenzen usw.)
+- body (Körper mit anzuzeigendem Inhalt, also Texte, Hyperlinks, Bilder, Tabellen, Listen, Grafikreferenzen usw.)
 
 ````
 <!DOCTYPE html>
