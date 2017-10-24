@@ -132,7 +132,7 @@ cmd + shift + I
 
 ### Document Object Model
 
-Das Dokumenten-Objekt-Modell ist eine Spezifikation, welche HTML- oder XML-Dokumente als eine Baumstruktur darstellt, in der jeder Knoten ein Objekt ist, welches einen Teil des Dokumentes repräsentiert, z.B. einen Absatz, eine Überschrift, ein Video oder etwa eine Tabellenzelle. Es definiert die logische Struktur von Dokumenten und die Art und Weise, wie auf ein Dokument zugegriffen und es manipuliert wird.
+Das Dokumenten-Objekt-Modell ist eine Spezifikation, welche HTML- oder XML-Dokumente als eine Baumstruktur darstellt, in der jeder Knoten ein Objekt ist, welches einen Teil des Dokumentes repräsentiert, z.B. einen Absatz, eine Überschrift, ein Video oder etwa eine Tabellenzelle. Es definiert die logische Struktur von Dokumenten und die Art und Weise, wie auf ein Dokument zugegriffen wird und es manipuliert werden kann.
 
 An diesem Beispiel lässt sich der prinzipielle Aufbau des Objektmodells diskutieren: Dokumente werden logisch wie ein Stammbaum dargestellt. Knoten (nodes) stehen über „Verwandtschaftsbeziehungen“ zueinander in Verbindung.
 
