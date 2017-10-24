@@ -12,7 +12,7 @@
 
 > **25.10.** // Chrome DevTools, HTML, CSS
 
-<br>
+<!-- <br>
 
 **Sitemap**
 
@@ -36,7 +36,7 @@
 #### Inline Styles
 #### Internal Styles
 #### External Styles
-### Cascading
+### Cascading -->
 
 <br>
 
