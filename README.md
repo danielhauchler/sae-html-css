@@ -142,9 +142,13 @@ Die vorliegende Struktur wird im Objektmodell durch die folgenden Beziehungen ch
 
 - Der Wurzelknoten (root) ist ein html-Tag und hat als Kinder (children) die Elementknoten head und body.
 - Der html-Elementknoten ist umgekehrt ein Elternteil (parent) von head und body.
-- Knoten mit gemeinsamem Elternteil (zum Beispiel die Elementknoten h1 und p) werden Geschwister (siblings) genannt.
+- Knoten mit gemeinsamem Elternteil (zum Beispiel die Elementknoten head und body) werden Geschwister (siblings) genannt.
 
-[Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/), Wegbereiter des World Wide Webs und Director des World Wide Web Consortiums ([W3C](https://www.w3.org/)).
+#### W3C
+
+[Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/) ist Wegbereiter des World Wide Webs und zudem Gründer und Vorsitzender des World Wide Web Consortiums ([W3C](https://www.w3.org/)).
+
+Das World Wide Web Consortium ist das Gremium zur Standardisierung von Techniken im World Wide Web.
 
 - [World Wide Web Consortium (W3C)](https://www.w3.org/)
 - [World Wide Web Consortium (W3Schools)](https://www.w3schools.com/)
