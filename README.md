@@ -158,11 +158,15 @@ Das W3C stellt einen Markup Validator zur Überprüfung von Markup-Gültigkeit v
 
 ### DOCTYPE
 
-Dateiname:
+Mit der Dateiendung '.html' definieren wir Dateien als HTML Dokumente. Der Dateiname 'index' kann beliebig gewählt werden. Wenn wir jedoch später eine html-Datei auf einem Server bereitstellen, sind index-Dateien standardmäßig als Startseiten referenziert. Mit der URL https://www.start-coding.de/ würden wir den Inhalt der Datei https://www.html-seminar.de/index.html angezeigt bekommen.
 ````
 index.html
 ````
-Mit der Dateiendung '.html' definieren wir die Datei als HTML Dokument.
+
+Eine gewöhnliche HTML-Datei besteht grundsätzlich aus folgenden Bestandteilen:
+- Dokumenttyp-Deklaration (!DOCTYPE html)
+- head (unsichtbarer Kopfdaten. z.B. Angaben zu Seitentitel)
+- body (Körper – anzuzeigender Inhalt, also Text mit Überschriften, Verweisen, Grafikreferenzen usw.)
 
 ````
 <!DOCTYPE html>
