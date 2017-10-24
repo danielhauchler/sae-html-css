@@ -33,6 +33,7 @@
   - [Document Object Model](02-html#document-object-model)
   - [Doctype](02-html#doctype)
   - [Head](02-html#head)
+    - [Metainformationen](02-html#metainformationen)
     - [Unicodes and Character Sets](02-html#unicodes-and-character-sets)
   - [Body](02-html#body)
 
