@@ -125,10 +125,10 @@ cmd + shift + I
 
 - HTML beschreibt die semantische Dokumentenstruktur von Web Applikationen
 - HTML Tags repräsentieren HTML Elemente
-- HTML Elemente bilden eine Baumstruktur, auch DOM (Dokumenten-Objekt-Modell) gegannt
 
 ### Document Object Model
 
+- HTML Elemente bilden eine Baumstruktur, auch DOM (Dokumenten-Objekt-Modell) gegannt
 - DOM-Elemente bildet Knoten, jeder Knoten bildet ein Objekt
 - Objekte repräsentieren Teile des Dokumentes
 - Browser nutzen das DOM um Inhalte zu rendern
