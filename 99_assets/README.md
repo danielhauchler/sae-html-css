@@ -3,7 +3,7 @@
 ## Assets
 
 ### Colors
-![Colors](https://raw.githubusercontent.com/danielhauchler/start-coding/master/assets/media/images/readme/colors.jpg)
+![Colors](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/colors.jpg)
 ```
   #f6f6f6
   #99a0aa

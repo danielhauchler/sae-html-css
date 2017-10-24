@@ -1,4 +1,4 @@
-![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/assets/media/images/readme/start-coding-banner.jpg)
+![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/start-coding-banner.jpg)
 
 ## 01 - Entwicklungsumgebung
 
@@ -27,7 +27,7 @@ Schaut euch Emmet an, ein Plugin für viele gängige Texteditoren, welches den H
 ### Terminal (Command Line Interface)
 
 Der Terminal, auch als Kommandozeile oder "Command Line" bezeichnet, liefert uns eine Befehlszeilenschnittstelle und textbasierten Zugriff auf unser Betriebssystem.
-![Terminal](https://raw.githubusercontent.com/danielhauchler/start-coding/master/assets/media/images/readme/terminal.png)
+![Terminal](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/terminal.png)
 
 Grundlegende Betriebssystem basierte Kommandozeilen-Befehle:
 - [Terminal Cheatsheet for Mac (Basics)](https://github.com/danielhauchler/terminal-mac-cheatsheet)
@@ -40,7 +40,7 @@ Auch unsere IDE, der Visual Studio Code verfügt über eine integrierte IDE.
 ````
 Shift + control + `
 ````
-![VSC Terminal](https://raw.githubusercontent.com/danielhauchler/start-coding/master/assets/media/images/readme/vsc-terminal.png)
+![VSC Terminal](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/vsc-terminal.png)
 
 <br>
 
@@ -65,7 +65,7 @@ Folgende Online-Dienste bieten sich zur webbasierten Versionsverwaltung an:
 
 Auch Git lässt sich mit [Komandozeilen-Befehle über den Terminal](https://rogerdudler.github.io/git-guide/index.de.html) steuern. Darüber hinaus gibt es Git Clients wie z.B. [Sourcetree](https://www.sourcetreeapp.com/) oder auch [Tower](https://www.git-tower.com/mac/). Unser Visual Studio Code verfügt bereits auch über einen rudimentären Git Client.
 
-![VSC Git Client](https://raw.githubusercontent.com/danielhauchler/start-coding/master/assets/media/images/readme/vsc-git-client.png)
+![VSC Git Client](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/vsc-git-client.png)
 
 <br>
 
@@ -96,7 +96,7 @@ Solche Web-Entwicklungstools unterscheiden sich von den Website-Buildern und den
 cmd + shift + I
 ```
 
-![Screenshot - Inspect Element](https://raw.githubusercontent.com/danielhauchler/start-coding/master/assets/media/images/readme/devtools.png)
+![Screenshot - Inspect Element](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/devtools.png)
 
 [Paul Irish](https://www.paulirish.com/), amerikanischer Front End und Google Chrome Web Browser Engineer.
 
