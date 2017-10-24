@@ -61,6 +61,41 @@ Das head-Element ist ein Container für alle Kopfelemente und kann einen Titel f
 ````
 __*[Sourcecode](https://github.com/danielhauchler/start-coding/blob/master/02-html/02-html-head/index.html)*__
 
+##### Metainformationen
+
+````
+    <!-- Page-Title, fokus auf ein Hauptkeyword -->
+    <title>Document</title>
+
+    <!-- Beschreibung der Seite mit 156 Zeichen inkl. Spaces und Verwendung des Hauptkeywords der Seite -->
+    <meta name="description" content="A description of the page">
+
+    <!-- Facebook -->
+    <meta property="fb:app_id" content="123456789">
+    <meta property="og:url" content="https://www.volvocars.com/de">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Volvocars XY">
+    <meta property="og:image" content="https://www.volvocars.com/de/image.jpg">
+    <meta property="og:description" content="Description Here">
+    <meta property="og:site_name" content="Site Name">
+    <meta property="og:locale" content="de_DE">
+    <meta property="article:author" content="">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@site_account">
+    <meta name="twitter:creator" content="@individual_account">
+    <meta name="twitter:url" content="https://example.com/page.html">
+    <meta name="twitter:title" content="Content Title">
+    <meta name="twitter:description" content="Content description less than 200 characters">
+    <meta name="twitter:image" content="https://example.com/image.jpg">
+
+    <!-- Google+ -->
+    <link href="https://plus.google.com/+VolvoCars" rel="publisher">
+    <meta itemprop="name" content="Volvo Cars">
+    <meta itemprop="description" content="Content description less than 200 characters">
+    <meta itemprop="image" content="https://www.volvocars.com/de/image.jpg">
+````
 Weitere html-Elemente zur Auszeichnung von Metainformationen im head findet ihr unter [HTML Elemente für den Head](https://github.com/danielhauchler/HEAD).
 
 ##### Unicodes and Character Sets
