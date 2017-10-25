@@ -47,7 +47,7 @@
     - [External Styles](03-css#external-styles)
     - [Cascading](03-css#cascading)
 
-- [Assets]()
+- [Assets](https://github.com/danielhauchler/start-coding/tree/master/99_assets)
 
 <br>
 
