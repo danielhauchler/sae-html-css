@@ -116,4 +116,4 @@ Das W3C stellt einen Markup Validator zur Überprüfung von Markup-Gültigkeit v
 
 <br>
 
-<a href="https://github.com/danielhauchler/start-coding/tree/master/03-css" style="text-align:right">03 - Cascading Style Sheets >></a>
+<a href="https://github.com/danielhauchler/start-coding/tree/master/03-css">                                                         03 - Cascading Style Sheets >></a>
