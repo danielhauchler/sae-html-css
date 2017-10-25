@@ -56,7 +56,7 @@ Open-Source Software zur verteilten Versionsverwaltung, stetiger Protokollierung
 Im übrigen befindest Du dich gerade auch in einem meiner Ropositorys auf [Github](https://github.com/). Hier aktualisiere, versioniere und teile ich den aktuellen Stand unseres Quellcodes aus den Sessions, sowie diese Doku.
 
 Für die Nutzung muss folgende Software auf eurem Betriebssystem installiert sein:
-- [Git](https://git-scm.com/), Download für [Windows](https://git-scm.com/download/win) und [Mac](https://git-scm.com/download/mac).
+- [Git](https://git-scm.com/), Download für [Windows](https://git-scm.com/download/win) oder [Mac](https://git-scm.com/download/mac).
 
 Folgende Online-Dienste bieten sich zur webbasierten Versionsverwaltung an:
 
