@@ -26,7 +26,7 @@ Die vorliegende Struktur wird im Objektmodell durch die folgenden Beziehungen ch
 
 ### DOCTYPE
 
-Mit der Dateiendung '.html' definieren wir Dateien als HTML Dokumente. Der Dateiname 'index' kann beliebig gewählt werden. Wenn wir jedoch später eine html-Datei auf einem Server bereitstellen, sind index-Dateien standardmäßig als Startseiten referenziert. Mit der URL https://www.start-coding.de/ würden wir den Inhalt der Datei https://www.html-seminar.de/index.html angezeigt bekommen.
+Mit der Dateiendung '.html' definieren wir Dateien als HTML Dokumente. Der Dateiname 'index' kann beliebig gewählt werden. Wenn wir jedoch später eine html-Datei auf einem Server bereitstellen, sind index-Dateien standardmäßig als Startseiten referenziert. Mit der URL https://www.start-coding.de/ würden wir den Inhalt der Datei https://www.start-coding.de/index.html angezeigt bekommen.
 ````
 index.html
 ````
