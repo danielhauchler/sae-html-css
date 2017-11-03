@@ -1,0 +1,33 @@
+#headline {
+    /*
+    width: ;
+    height: ;
+    border: ;
+    margin: ;
+    padding: ;
+    */
+    display: inline-block;
+    border: 1px solid #000;
+
+    margin: 50px;
+    
+    margin: 50px 25px;
+    
+    margin: 50px 40px 30px 20px;
+
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+    padding: 50px;    
+}
+#box {
+    width: 200px;
+    height: 200px;
+    background-color: #99a0aa; 
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+
+}

@@ -1,0 +1,7 @@
+.container {
+    width: 960px;
+    height: 500px;
+    padding: 0 15px;
+    margin: 0 auto;
+    background-color: grey;
+}
