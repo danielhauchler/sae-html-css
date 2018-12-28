@@ -1,21 +1,4 @@
 ![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/start-coding-banner.jpg)
-
-<br>
-
-**Termine:**
-
-2017
-
-> **12.10.** // Kick-Off, IDE, Terminal, Browser, HTML
-
-> **17.10** // Chrome DevTools, HTML, CSS
-
-> **25.10.** // Chrome DevTools, HTML, CSS
-
-<br>
-
-
-
 <br>
 
 **Inhalt**
