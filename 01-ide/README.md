@@ -1,3 +1,5 @@
+![Study Web Development](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/header.png)
+
 ## 01 - Entwicklungsumgebung
 
 ### IDEs (Integrated Development Environments)
