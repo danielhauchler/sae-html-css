@@ -1,4 +1,4 @@
-![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/start-coding-banner.jpg)
+![Study Web Development](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/header.png)
 
 ## 02 - HTML (Hypertext Markup Language)
 
