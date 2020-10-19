@@ -1,5 +1,3 @@
-![Hader Image](https://raw.githubusercontent.com/danielhauchler/sae-html-css/master/99_assets/media/images/readme/header.png)
-
 ## 01 - Entwicklungsumgebung
 
 ### IDEs (Integrated Development Environments)
