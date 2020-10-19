@@ -1,3 +1,5 @@
+![Study Web Development](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/header.png)
+
 **Inhalt**
 
 - [Vorwort](#)
@@ -29,4 +31,6 @@
 - [99 - Assets](https://github.com/danielhauchler/start-coding/tree/master/99_assets)
 
 <br>
+
+| <a href="https://github.com/danielhauchler/start-coding/tree/master/03-css"> 03 - Cascading Style Sheets >></a>
 
