@@ -1,3 +1,5 @@
+![Hader Image](./99_assets/media/images/readme/header.png)
+
 ## 01 - Entwicklungsumgebung
 
 ### IDEs (Integrated Development Environments)
