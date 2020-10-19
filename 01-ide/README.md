@@ -1,4 +1,4 @@
-![Start Coding](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/sae-web-icon.jpg)
+![SAE Web Development](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/sae-web-icon.png)
 
 ## 01 - Entwicklungsumgebung
 
