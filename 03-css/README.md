@@ -1,6 +1,6 @@
 ![Study Web Development](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/header.png)
 
-## 03 - Cascading Style Sheets
+## 03 - CSS (Cascading Style Sheets)
 Cascading Style Sheets (gestufte Gestaltungsbögen), kurz CSS genannt ist eine Stylesheet-Sprache für elektronische Dokumente mit der Gestaltungsanweisungen erstellt werden, die zusammen mit den Auszeichnungssprachen HTML, dem DOM und XML eingesetzt werden. Sie ist ein so genannter „living standard“ und wird vom World Wide Web Consortium (W3C) stetig weiterentwickelt. CSS wurde entworfen, um Darstellungen weitestgehend von inhaltlicher Semantik zu trennen. Ob und in welchen Browserversionen welche CSS Properties implementiert sind könnt ihr unter [https://caniuse.com/](https://caniuse.com/]) prüfen.
 
 Ein CSS-Regel-Set besteht aus einem Selektor und einem Deklarationsblock mit CSS Eigenschaften und Werten. Der Selektor zeigt auf das HTML-Element, das Du formatieren möchtest. Der Deklarationsblock enthält eine oder mehrere Deklarationen, die durch Semikolons voneinander getrennt werden. Jede Deklaration enthält einen CSS-Eigenschaftsnamen und einen durch einen Doppelpunkt getrennten Wert. Eine CSS-Deklaration endet immer mit einem Semikolon, und Deklarationsblöcke werden von geschweiften Klammern umgeben.
