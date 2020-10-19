@@ -2,7 +2,6 @@
 
 - [Vorwort](#)
   - [Roadmap to become a web developer in 2017](https://github.com/danielhauchler/developer-roadmap)
-  - [Kollaborative Notizen aus unseren Sessions](https://docs.google.com/document/d/17UVzmxNfac6yb9yI6B0vMZwanRJNC34Tepmt1gZ7-rI/edit)
 
 - [01 - Entwicklungsumgebung](01-ide#01---entwicklungsumgebung)
   - [IDEs (Integrated Development Enviroment)](01-ide#ides-integrated-development-environments)
