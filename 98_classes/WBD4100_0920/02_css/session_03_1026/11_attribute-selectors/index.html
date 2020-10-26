@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    li[class="list-item"] {
+      color: blue;
+    }
+    li[class="special-list-item"] {
+      color: red;
+    }
+    a[href] {
+      color:darkseagreen
+    }
+    input[type="text"] {
+      background-color: dodgerblue;
+    }
+    p[class~="box"] {
+      color: blue
+    }
+    img[src*=".jpg"] {
+      border: 2px solid red;
+    }
+    img[width="250px"] {
+      transform: rotate(180deg)
+    }
+  </style>
+</head>
+<body>
+  <ul>
+    <li class="list-item">List item</li>
+    <li class="list-item">List item</li>
+    <li class="special-list-item">List item</li>
+    <li class="list-item">List item</li>
+    <li class="special-list-item">List item</li>
+    <li class="list-item">List item</li>
+    <a href="http://google.com">Google</a>
+    <a href="http://amazon.com">Amazon</a>
+    <input type="text">
+    <input type="phone">
+    <p class="box box1 right yxc">Lorem ipsum</p>
+    <img width="250px" src="https://www.pinclipart.com/picdir/middle/419-4198429_scholarships-grants-era-of-the-engineer-sae-institute.png" alt="">
+    <img width="200px" src="https://alumni.sae.edu/wp-content/uploads/2016/09/Edit_Area_2-796x381.jpg" alt="">
+  </ul>
+</body>
+</html>

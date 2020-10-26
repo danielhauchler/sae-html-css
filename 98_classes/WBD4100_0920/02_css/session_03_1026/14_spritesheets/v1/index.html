@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    li {
+      list-style: none;
+      margin: 5px 0;
+    }
+    p {
+      display: inline-block;
+    }
+    .item {
+      display: inline-block;
+      width: 24px;
+      height: 24px;
+      background-image: url(images/spritesheet.png);
+      background-size: 400px;
+      transform: translateY(5px);
+    }
+    .item-one {
+      background-position: 24px 0;
+    }
+    .item-two {
+      background-position: 131px -189px;
+    }
+  </style>
+</head>
+<body>
+  <ul>
+    <li>
+      <span class="item item-one"></span>
+      <span>List item</span>
+    </li>
+    <li>
+      <span class="item item-two"></span>
+      <span>List item</span>
+    </li>
+  </ul>
+</body>
+</html>

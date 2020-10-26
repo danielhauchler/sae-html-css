@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    a {
+      display: inline-block;
+      padding: 10px 15px;
+      color: #fff;
+      background-color: indigo;
+    }
+    a:hover {
+      background-color: mediumslateblue;
+    }
+    a:active {
+      background-color: red;
+    } 
+    /* a:visited {
+      background-color: green;
+    } */
+    a:focus {
+
+    }
+    input {
+      display: inline-block;
+      margin: 10px 15px;
+    }
+    input:focus {
+      border: 2px solid red;
+    }
+    p {
+      margin-left: 20px;
+      position: relative;
+      display: inline-block;
+    }
+    p.text:before {
+      content: '< ';
+      left: -12px;
+      position: absolute;
+      width: 5px;
+      height: 5px;
+      background-color: blue;
+    }
+    p.text:after {
+      content:' >';
+      position: absolute;
+      right: -12px;
+      width: 5px;
+      height: 5px;
+      background-color: red;
+    }
+
+  </style>
+</head>
+<body>
+  <a href="http://ebay.de">eBay</a>
+  <a href="http://google.com">Google</a>
+  <input type="text" autofocus>
+  <p class="text">Lorem ipsum</p>
+</body>
+</html>
