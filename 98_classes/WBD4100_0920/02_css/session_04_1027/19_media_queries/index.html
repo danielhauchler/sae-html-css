@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .container {
+      width: 100%;
+      margin: 0 auto;
+      border: 1px solid red;
+    }
+
+    @media (min-width: 480px) {
+      .container {
+        width: 460px
+      }
+      h1 {
+        font-size: 120px;
+      }
+    }
+
+    @media (min-width: 960px) {
+      .container {
+        width: 940px
+      }
+      h1 {
+        font-size: 247px;
+      }
+    }
+
+    @media (max-aspect-ratio: 3/2) {
+      body {
+        background: #9ff;
+      }
+    }
+
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Headline</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quisquam laborum asperiores maiores reprehenderit. Recusandae earum praesentium excepturi nemo aspernatur sed dolore, distinctio delectus culpa explicabo ea voluptas veniam eos?</p>
+    <div class="teaser">
+      <div class="teaser-one"></div>
+      <div class="teaser-two"></div>
+      <div class="teaser-three"></div>
+    </div>
+  </div>
+</body>
+</html>
