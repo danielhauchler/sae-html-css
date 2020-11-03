@@ -1,0 +1,35 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 366.04 330.75">
+	<defs>
+		<style>
+			.cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 43px;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-3 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.03em;
+      }
+		</style>
+	</defs>
+	<path class="color" d="M240.5,296.5A132,132,0,1,1,342.78,81.07L211.32,212.53,246,247.18,366.88,126.27A132.11,132.11,0,0,1,240.5,296.5Z" transform="translate(-108 -32)" />
+	<path class="cls-1" d="M240.5,33A131,131,0,0,1,342.11,81L211.32,211.82l-.7.71.7.71,33.94,33.94.71.7.71-.7,120-120A131.52,131.52,0,1,1,240.5,33m0-1a132.38,132.38,0,1,0,126.61,93.33L246,246.47,212,212.53,343.46,81.1A132.26,132.26,0,0,0,240.5,32Z" transform="translate(-108 -32)" />
+	<text class="cls-2" transform="translate(33.75 314.4)">
+		Hallo
+		<tspan class="cls-3" x="92.66" y="0">
+		</tspan>
+		<tspan class="cls-4" x="100.23" y="0">
+			W
+		</tspan>
+		<tspan x="135.19" y="0">
+			elt!
+		</tspan>
+	</text>
+</svg>
