@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600;900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/e4cf433383.js" crossorigin="anonymous"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Nunito', sans-serif;
+        }
+        #weather-teaser {
+            width: 725px;
+        }
+        #weather-teaser-head {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: 230px;
+            background-color: #ee8281;
+            color: #fff;
+        }
+        #time {
+            font-size: 128px;
+            font-weight: 600;
+            transform: translate(45px, 0);
+        }
+        #time-label {
+            font-size: 64px;
+            transform: translate(45px, -38px);
+            font-weight: 600;
+        }
+
+        #weather-teaser-body {
+            display: flex;
+            flex-direction: row;
+        }
+
+        #weather-teaser-body > div {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 33.333%;
+            height: 350px;
+        }
+        .fa-sun {
+            font-size: 100px;
+            color: #ee8281;
+        }
+
+        #weather-teaser-body .day,
+        #weather-teaser-body .temp {
+            text-transform: uppercase;
+            font-weight: 900;
+            margin: 25px 0;
+            font-size: 28px;
+            color: #adaea9;
+        }
+
+        #weather-teaser-body div:hover .fas {
+            color:#cd6867;
+            cursor: pointer;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="weather-teaser">
+        <div id="weather-teaser-head">
+            <div id="time">1:33</div>
+            <div id="time-label">pm</div>
+        </div>
+        <div id="weather-teaser-body">
+            <div>
+                <div class="day">today</div>
+                <i class="fas fa-sun"></i>
+                <div class="temp">11/23</div>
+            </div>
+            <div>
+                <div class="day">today</div>
+                <i class="fas fa-sun"></i>
+                <div class="temp">11/23</div>
+            </div>
+            <div>
+                <div class="day">today</div>
+                <i class="fas fa-sun"></i>
+                <div class="temp">11/23</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
