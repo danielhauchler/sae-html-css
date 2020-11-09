@@ -1,4 +1,3 @@
-![Study Web Development](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/header.png)
 <a href="https://github.com/danielhauchler/start-coding"><< Inhaltsverzeichnis </a> | <a href="https://github.com/danielhauchler/start-coding/tree/master/03-css"> 03 - Cascading Style Sheets >></a>
 
 ## 01 - Entwicklungsumgebung
