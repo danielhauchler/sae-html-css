@@ -93,7 +93,7 @@ Solche Web-Entwicklungstools unterscheiden sich von den Website-Buildern und den
 
 'Rechtsklick' + 'Untersuchen/Inspect' oder auch:
 ```
-cmd + shift + I
+cmd + alt + I
 ```
 
 ![Screenshot - Inspect Element](https://raw.githubusercontent.com/danielhauchler/start-coding/master/99_assets/media/images/readme/devtools.png)
